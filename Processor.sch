@@ -1,0 +1,3458 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 30346 15036
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	14500 10200 14600 10200
+Wire Wire Line
+	14600 10200 14600 9700
+Wire Wire Line
+	14600 9700 15100 9700
+Wire Wire Line
+	14500 10300 14700 10300
+Wire Wire Line
+	14700 10300 14700 9600
+Wire Wire Line
+	14700 9600 15100 9600
+Wire Wire Line
+	14500 12200 14800 12200
+Wire Wire Line
+	14800 12200 14800 9900
+Wire Wire Line
+	14800 9900 15100 9900
+Wire Wire Line
+	14500 12300 14900 12300
+Wire Wire Line
+	14900 12300 14900 9800
+Wire Wire Line
+	14900 9800 15100 9800
+Wire Wire Line
+	16100 9500 16200 9500
+Wire Wire Line
+	16200 9500 16200 10500
+Wire Wire Line
+	16200 10500 16200 10600
+Wire Wire Line
+	16200 10600 13400 10600
+Wire Wire Line
+	13400 10600 13400 12300
+Wire Wire Line
+	13400 12300 13500 12300
+Wire Wire Line
+	16200 10500 19000 10500
+Connection ~ 16200 10500
+Text Label 19000 10500 0    70   ~ 0
+CN+4
+Wire Wire Line
+	12600 7000 10300 7000
+Text Label 10350 7000 2    70   ~ 0
+CN+4
+Wire Wire Line
+	16300 10600 16300 9600
+Wire Wire Line
+	16300 9600 16100 9600
+Wire Wire Line
+	16300 10600 19000 10600
+Text Label 19000 10600 0    70   ~ 0
+CN+8
+Wire Wire Line
+	12600 5500 10300 5500
+Text Label 10300 5500 2    70   ~ 0
+CN+8
+Wire Wire Line
+	14500 8900 16600 8900
+Text Label 15525 8900 0    70   ~ 0
+ALUF0
+Wire Wire Line
+	21900 7800 21600 7800
+Wire Wire Line
+	21600 7800 20100 7800
+Wire Wire Line
+	21900 9300 21600 9300
+Wire Wire Line
+	21600 9300 21600 7800
+Text Label 20100 7800 2    70   ~ 0
+ALUF0
+Connection ~ 21600 7800
+Wire Wire Line
+	16600 9000 14500 9000
+Text Label 15475 9000 0    70   ~ 0
+ALUF1
+Wire Wire Line
+	20100 7900 21500 7900
+Wire Wire Line
+	21500 7900 21900 7900
+Wire Wire Line
+	21500 7900 21500 9400
+Wire Wire Line
+	21500 9400 21900 9400
+Text Label 20100 7900 2    70   ~ 0
+ALUF1
+Connection ~ 21500 7900
+Wire Wire Line
+	14500 9100 16600 9100
+Text Label 15525 9100 0    70   ~ 0
+ALUF2
+Wire Wire Line
+	20100 8000 21400 8000
+Wire Wire Line
+	21400 8000 21900 8000
+Wire Wire Line
+	21900 9500 21400 9500
+Wire Wire Line
+	21400 9500 21400 8000
+Text Label 20100 8000 2    70   ~ 0
+ALUF2
+Connection ~ 21400 8000
+Wire Wire Line
+	16600 9200 14500 9200
+Text Label 15475 9200 0    70   ~ 0
+ALUF3
+Wire Wire Line
+	20100 8100 21300 8100
+Wire Wire Line
+	21300 8100 21900 8100
+Wire Wire Line
+	21900 9600 21300 9600
+Wire Wire Line
+	21300 9600 21300 8100
+Text Label 20125 8100 2    70   ~ 0
+ALUF3
+Connection ~ 21300 8100
+Wire Wire Line
+	14500 10900 16600 10900
+Text Label 15500 10900 0    70   ~ 0
+ALUF4
+Wire Wire Line
+	20100 8200 21200 8200
+Wire Wire Line
+	21200 8200 21900 8200
+Wire Wire Line
+	21200 8200 21200 9700
+Wire Wire Line
+	21200 9700 21900 9700
+Text Label 20100 8200 2    70   ~ 0
+ALUF4
+Connection ~ 21200 8200
+Wire Wire Line
+	16600 11000 14500 11000
+Text Label 15475 11000 0    70   ~ 0
+ALUF5
+Wire Wire Line
+	20100 8300 21100 8300
+Wire Wire Line
+	21100 8300 21900 8300
+Wire Wire Line
+	21900 9800 21100 9800
+Wire Wire Line
+	21100 9800 21100 8300
+Text Label 20100 8300 2    70   ~ 0
+ALUF5
+Connection ~ 21100 8300
+Wire Wire Line
+	14500 11100 16600 11100
+Text Label 15500 11100 0    70   ~ 0
+ALUF6
+Wire Wire Line
+	20100 8400 21000 8400
+Wire Wire Line
+	21000 8400 21900 8400
+Wire Wire Line
+	21000 8400 21000 9900
+Wire Wire Line
+	21000 9900 21900 9900
+Text Label 20100 8400 2    70   ~ 0
+ALUF6
+Connection ~ 21000 8400
+Wire Wire Line
+	16600 11400 16500 11400
+Wire Wire Line
+	16500 11400 16500 9400
+Wire Wire Line
+	16500 9400 16600 9400
+Wire Wire Line
+	16500 9400 16500 8500
+Wire Wire Line
+	16500 8500 10300 8500
+Connection ~ 16500 9400
+Text Label 10300 8500 2    70   ~ 0
+~ALUOE
+Wire Wire Line
+	28800 3900 28500 3900
+Text Label 28800 3900 0    70   ~ 0
+~ALUOE
+Wire Wire Line
+	21100 12600 21500 12600
+Text Label 21100 12600 2    70   ~ 0
+SEL0
+Wire Wire Line
+	23700 11200 23800 11200
+Wire Wire Line
+	23700 11200 23700 11000
+Wire Wire Line
+	23700 11000 21400 11000
+Wire Wire Line
+	21400 11000 21100 11000
+Wire Wire Line
+	21500 12400 21400 12400
+Wire Wire Line
+	21400 12400 21400 11000
+Text Label 21100 11000 2    70   ~ 0
+SEL1
+Connection ~ 21400 11000
+Wire Wire Line
+	11600 8900 12400 8900
+Wire Wire Line
+	12400 8900 13500 8900
+Wire Wire Line
+	12400 8900 12400 7400
+Wire Wire Line
+	12400 7400 12400 900 
+Wire Wire Line
+	12400 900  16600 900 
+Wire Wire Line
+	12600 7400 12400 7400
+Connection ~ 12400 8900
+Text Label 12700 8900 0    70   ~ 0
+ACC0
+Connection ~ 12400 7400
+Wire Wire Line
+	13500 9000 12300 9000
+Wire Wire Line
+	12300 9000 11600 9000
+Wire Wire Line
+	12300 9000 12300 2900
+Wire Wire Line
+	12300 2900 12300 1000
+Wire Wire Line
+	12300 1000 16600 1000
+Wire Wire Line
+	16600 2900 12300 2900
+Connection ~ 12300 9000
+Connection ~ 12300 2900
+Text Label 12675 9000 0    70   ~ 0
+ACC1
+Wire Wire Line
+	11600 9100 12200 9100
+Wire Wire Line
+	12200 9100 13500 9100
+Wire Wire Line
+	12200 9100 12200 3000
+Wire Wire Line
+	12200 3000 12200 1100
+Wire Wire Line
+	12200 1100 16600 1100
+Wire Wire Line
+	16600 3000 12200 3000
+Connection ~ 12200 9100
+Connection ~ 12200 3000
+Text Label 12725 9100 0    70   ~ 0
+ACC2
+Wire Wire Line
+	13500 9200 12100 9200
+Wire Wire Line
+	12100 9200 11600 9200
+Wire Wire Line
+	12100 9200 12100 3100
+Wire Wire Line
+	12100 3100 12100 1200
+Wire Wire Line
+	12100 1200 16600 1200
+Wire Wire Line
+	16600 3100 12100 3100
+Connection ~ 12100 9200
+Connection ~ 12100 3100
+Text Label 12675 9200 0    70   ~ 0
+ACC3
+Wire Wire Line
+	11600 9300 12000 9300
+Wire Wire Line
+	12000 9300 12000 10900
+Wire Wire Line
+	12000 10900 13500 10900
+Wire Wire Line
+	12000 9300 12000 3200
+Wire Wire Line
+	12000 3200 12000 1900
+Wire Wire Line
+	12000 1900 16600 1900
+Wire Wire Line
+	16600 3200 12000 3200
+Connection ~ 12000 9300
+Connection ~ 12000 3200
+Text Label 12725 10900 0    70   ~ 0
+ACC4
+Wire Wire Line
+	11600 9400 11900 9400
+Wire Wire Line
+	11900 9400 11900 11000
+Wire Wire Line
+	11900 11000 13500 11000
+Wire Wire Line
+	11900 9400 11900 3900
+Wire Wire Line
+	11900 3900 11900 2000
+Wire Wire Line
+	11900 2000 16600 2000
+Wire Wire Line
+	16600 3900 11900 3900
+Connection ~ 11900 9400
+Connection ~ 11900 3900
+Text Label 12725 11000 0    70   ~ 0
+ACC5
+Wire Wire Line
+	13500 11100 11800 11100
+Wire Wire Line
+	11800 11100 11800 9500
+Wire Wire Line
+	11800 9500 11600 9500
+Wire Wire Line
+	11800 9500 11800 4000
+Wire Wire Line
+	11800 4000 11800 2100
+Wire Wire Line
+	11800 2100 16600 2100
+Wire Wire Line
+	16600 4000 11800 4000
+Connection ~ 11800 9500
+Connection ~ 11800 4000
+Text Label 12700 11100 0    70   ~ 0
+ACC6
+Wire Wire Line
+	11600 9600 11700 9600
+Wire Wire Line
+	11700 9600 11700 11200
+Wire Wire Line
+	11700 11200 13500 11200
+Wire Wire Line
+	11700 9600 11700 4100
+Wire Wire Line
+	11700 4100 11700 2200
+Wire Wire Line
+	11700 2200 16600 2200
+Wire Wire Line
+	11700 4100 16600 4100
+Connection ~ 11700 9600
+Connection ~ 11700 4100
+Text Label 12700 11200 0    70   ~ 0
+ACC7
+Wire Wire Line
+	22700 11300 22600 11300
+Wire Wire Line
+	22600 11300 22600 12000
+Wire Wire Line
+	22600 12000 22700 12000
+Wire Wire Line
+	22600 11300 21100 11300
+Connection ~ 22600 11300
+Text Label 21100 11300 2    70   ~ 0
+ACC7
+Wire Wire Line
+	11600 12000 12800 12000
+Wire Wire Line
+	12800 12000 12800 11700
+Wire Wire Line
+	12800 11700 13500 11700
+Wire Wire Line
+	12800 12000 12800 13300
+Wire Wire Line
+	12800 13300 16600 13300
+Connection ~ 12800 12000
+Text GLabel 12800 11750 2    70   BiDi ~ 0
+B7
+Wire Wire Line
+	5200 9700 1400 9700
+Wire Wire Line
+	1400 9700 1400 4400
+Wire Wire Line
+	1400 4400 3900 4400
+Wire Wire Line
+	1400 9700 1000 9700
+Text GLabel 3775 9700 2    70   BiDi ~ 0
+B7
+Connection ~ 1400 9700
+Text GLabel 1000 9700 0    70   BiDi ~ 0
+B7
+Wire Wire Line
+	27200 12100 27300 12100
+Wire Wire Line
+	27200 12100 27200 12900
+Wire Wire Line
+	27200 12900 22600 12900
+Wire Wire Line
+	22600 12900 22600 12200
+Wire Wire Line
+	22600 12200 22700 12200
+Wire Wire Line
+	22600 12900 21100 12900
+Connection ~ 22600 12900
+Text GLabel 21100 12900 0    70   BiDi ~ 0
+B7
+Wire Wire Line
+	13500 11600 12700 11600
+Wire Wire Line
+	12700 11600 12700 11900
+Wire Wire Line
+	12700 11900 11600 11900
+Wire Wire Line
+	12700 11900 12700 13200
+Wire Wire Line
+	12700 13200 16600 13200
+Connection ~ 12700 11900
+Text GLabel 12800 11600 2    70   BiDi ~ 0
+B6
+Wire Wire Line
+	1500 9600 5200 9600
+Wire Wire Line
+	1500 9600 1500 4300
+Wire Wire Line
+	1500 4300 3900 4300
+Wire Wire Line
+	1000 9600 1500 9600
+Text GLabel 3825 9600 2    70   BiDi ~ 0
+B6
+Connection ~ 1500 9600
+Text GLabel 1000 9600 0    70   BiDi ~ 0
+B6
+Wire Wire Line
+	11600 11800 12600 11800
+Wire Wire Line
+	12600 11800 12600 11500
+Wire Wire Line
+	12600 11500 13500 11500
+Wire Wire Line
+	12600 11800 12600 13100
+Wire Wire Line
+	12600 13100 16600 13100
+Connection ~ 12600 11800
+Text GLabel 12800 11500 2    70   BiDi ~ 0
+B5
+Wire Wire Line
+	5200 9500 1600 9500
+Wire Wire Line
+	1600 9500 1600 4200
+Wire Wire Line
+	1600 4200 3900 4200
+Wire Wire Line
+	1600 9500 1000 9500
+Text GLabel 3775 9500 2    70   BiDi ~ 0
+B5
+Connection ~ 1600 9500
+Text GLabel 1000 9500 0    70   BiDi ~ 0
+B5
+Wire Wire Line
+	13500 11400 12500 11400
+Wire Wire Line
+	12500 11400 12500 11700
+Wire Wire Line
+	12500 11700 11600 11700
+Wire Wire Line
+	12500 11700 12500 13000
+Wire Wire Line
+	12500 13000 16600 13000
+Connection ~ 12500 11700
+Text GLabel 12800 11400 2    70   BiDi ~ 0
+B4
+Wire Wire Line
+	1700 9400 5200 9400
+Wire Wire Line
+	1700 9400 1700 4100
+Wire Wire Line
+	1700 4100 3900 4100
+Wire Wire Line
+	1000 9400 1700 9400
+Text GLabel 3825 9400 2    70   BiDi ~ 0
+B4
+Connection ~ 1700 9400
+Text GLabel 1000 9400 0    70   BiDi ~ 0
+B4
+Wire Wire Line
+	11600 11600 12400 11600
+Wire Wire Line
+	12400 11600 12400 9700
+Wire Wire Line
+	12400 9700 13500 9700
+Wire Wire Line
+	12400 11600 12400 12900
+Wire Wire Line
+	12400 12900 16200 12900
+Wire Wire Line
+	16200 12900 16200 12300
+Wire Wire Line
+	16200 12300 16600 12300
+Connection ~ 12400 11600
+Text GLabel 12800 9700 2    70   BiDi ~ 0
+B3
+Wire Wire Line
+	5200 8700 1800 8700
+Wire Wire Line
+	1800 8700 1800 2900
+Wire Wire Line
+	1800 2900 3900 2900
+Wire Wire Line
+	1800 8700 1800 9300
+Wire Wire Line
+	1800 9300 1000 9300
+Text GLabel 3775 8700 2    70   BiDi ~ 0
+B3
+Connection ~ 1800 8700
+Text GLabel 1000 9300 0    70   BiDi ~ 0
+B3
+Wire Wire Line
+	13500 9600 12300 9600
+Wire Wire Line
+	12300 9600 12300 11500
+Wire Wire Line
+	12300 11500 11600 11500
+Wire Wire Line
+	12300 11500 12300 12800
+Wire Wire Line
+	12300 12800 16100 12800
+Wire Wire Line
+	16100 12800 16100 12200
+Wire Wire Line
+	16100 12200 16600 12200
+Connection ~ 12300 11500
+Text GLabel 12800 9600 2    70   BiDi ~ 0
+B2
+Wire Wire Line
+	1900 8600 5200 8600
+Wire Wire Line
+	1900 8600 1900 2800
+Wire Wire Line
+	1900 2800 3900 2800
+Wire Wire Line
+	1000 9200 1900 9200
+Wire Wire Line
+	1900 9200 1900 8600
+Text GLabel 3800 8600 2    70   BiDi ~ 0
+B2
+Connection ~ 1900 8600
+Text GLabel 1025 9200 0    70   BiDi ~ 0
+B2
+Wire Wire Line
+	11600 11400 12200 11400
+Wire Wire Line
+	12200 11400 12200 9500
+Wire Wire Line
+	12200 9500 13500 9500
+Wire Wire Line
+	12200 11400 12200 12700
+Wire Wire Line
+	12200 12700 16000 12700
+Wire Wire Line
+	16000 12700 16000 12100
+Wire Wire Line
+	16000 12100 16600 12100
+Connection ~ 12200 11400
+Text GLabel 12825 9500 2    70   BiDi ~ 0
+B1
+Wire Wire Line
+	5200 8500 2000 8500
+Wire Wire Line
+	2000 8500 2000 2700
+Wire Wire Line
+	2000 2700 3900 2700
+Wire Wire Line
+	2000 8500 2000 9100
+Wire Wire Line
+	2000 9100 1000 9100
+Text GLabel 3800 8500 2    70   BiDi ~ 0
+B1
+Connection ~ 2000 8500
+Text GLabel 1000 9100 0    70   BiDi ~ 0
+B1
+Wire Wire Line
+	13500 9400 12100 9400
+Wire Wire Line
+	12100 9400 12100 11300
+Wire Wire Line
+	12100 11300 11600 11300
+Wire Wire Line
+	12100 11300 12100 12600
+Wire Wire Line
+	12100 12600 15900 12600
+Wire Wire Line
+	15900 12600 15900 12000
+Wire Wire Line
+	15900 12000 16600 12000
+Connection ~ 12100 11300
+Text GLabel 12775 9400 2    70   BiDi ~ 0
+B0
+Wire Wire Line
+	2100 8400 5200 8400
+Wire Wire Line
+	2100 8400 2100 2600
+Wire Wire Line
+	2100 2600 3900 2600
+Wire Wire Line
+	1000 9000 2100 9000
+Wire Wire Line
+	2100 9000 2100 8400
+Text GLabel 3800 8400 2    70   BiDi ~ 0
+B0
+Connection ~ 2100 8400
+Text GLabel 1000 9000 0    70   BiDi ~ 0
+B0
+Wire Wire Line
+	12600 5900 10300 5900
+Text Label 10300 5900 2    70   ~ 0
+OVR
+Wire Wire Line
+	27300 11900 27200 11900
+Wire Wire Line
+	27200 11900 27200 11600
+Wire Wire Line
+	27200 11600 28400 11600
+Wire Wire Line
+	27100 11600 27200 11600
+Text Label 28400 11600 0    70   ~ 0
+OVR
+Connection ~ 27200 11600
+Wire Wire Line
+	16600 12500 16500 12500
+Wire Wire Line
+	16500 12500 16500 13500
+Wire Wire Line
+	16500 13500 16600 13500
+Wire Wire Line
+	16500 13500 10300 13500
+Connection ~ 16500 13500
+Text Label 10300 13500 2    70   ~ 0
+~BOE
+Wire Wire Line
+	28800 5900 28500 5900
+Text Label 28800 5900 0    70   ~ 0
+~BOE
+Wire Wire Line
+	16600 4400 16500 4400
+Wire Wire Line
+	16500 4400 16500 3400
+Wire Wire Line
+	16500 3400 16600 3400
+Wire Wire Line
+	16500 3400 10300 3400
+Connection ~ 16500 3400
+Text Label 10300 3400 2    70   ~ 0
+~ASHOE
+Wire Wire Line
+	28800 3600 28500 3600
+Text Label 28800 3600 0    70   ~ 0
+~ASHOE
+Wire Wire Line
+	16600 2400 16500 2400
+Wire Wire Line
+	16500 2400 16500 1400
+Wire Wire Line
+	16500 1400 16600 1400
+Wire Wire Line
+	16500 1400 10300 1400
+Connection ~ 16500 1400
+Text Label 10300 1400 2    70   ~ 0
+~AOE
+Wire Wire Line
+	28800 3500 28500 3500
+Text Label 28800 3500 0    70   ~ 0
+~AOE
+Wire Wire Line
+	13500 10300 13400 10300
+Wire Wire Line
+	13400 10300 13400 8600
+Wire Wire Line
+	14800 9500 15100 9500
+Wire Wire Line
+	14800 9500 14800 8600
+Wire Wire Line
+	14800 8600 13400 8600
+Wire Wire Line
+	15400 6800 15600 6800
+Wire Wire Line
+	15600 6800 16400 6800
+Wire Wire Line
+	16400 6800 16600 6800
+Wire Wire Line
+	15600 6800 15600 4900
+Wire Wire Line
+	15600 4900 16600 4900
+Wire Wire Line
+	14800 8600 16400 8600
+Wire Wire Line
+	16400 8600 16400 6800
+Connection ~ 15600 6800
+Connection ~ 14800 8600
+Connection ~ 16400 6800
+Wire Wire Line
+	10600 8900 10300 8900
+Text GLabel 10300 8900 0    70   BiDi ~ 0
+D0
+Wire Wire Line
+	10300 11300 10600 11300
+Text GLabel 10300 11300 0    70   BiDi ~ 0
+D0
+Wire Wire Line
+	17600 900  17700 900 
+Wire Wire Line
+	17700 900  17700 2400
+Wire Wire Line
+	17700 2400 17700 2900
+Wire Wire Line
+	17700 2900 17700 6800
+Wire Wire Line
+	17700 6800 17700 8900
+Wire Wire Line
+	17700 8900 17700 9600
+Wire Wire Line
+	17700 9600 17700 12000
+Wire Wire Line
+	17700 12000 17600 12000
+Wire Wire Line
+	17600 2900 17700 2900
+Wire Wire Line
+	17600 8900 17700 8900
+Wire Wire Line
+	17700 9600 19000 9600
+Wire Wire Line
+	17700 6800 17600 6800
+Wire Wire Line
+	17700 2400 19300 2400
+Connection ~ 17700 2900
+Connection ~ 17700 8900
+Connection ~ 17700 9600
+Text GLabel 19000 9600 2    70   BiDi ~ 0
+D0
+Connection ~ 17700 6800
+Connection ~ 17700 2400
+Wire Wire Line
+	1400 10600 1000 10600
+Text GLabel 1000 10600 0    70   BiDi ~ 0
+D0
+Wire Wire Line
+	4600 12500 4900 12500
+Text GLabel 4900 12500 2    70   BiDi ~ 0
+D0
+Wire Wire Line
+	12600 5400 10300 5400
+Text GLabel 10300 5400 0    70   BiDi ~ 0
+D0
+Wire Wire Line
+	10300 9000 10600 9000
+Text GLabel 10325 9000 0    70   BiDi ~ 0
+D1
+Wire Wire Line
+	10300 11400 10600 11400
+Text GLabel 10300 11400 0    70   BiDi ~ 0
+D1
+Wire Wire Line
+	17600 12100 17800 12100
+Wire Wire Line
+	17800 12100 17800 9700
+Wire Wire Line
+	17800 9700 17800 9000
+Wire Wire Line
+	17800 9000 17800 6900
+Wire Wire Line
+	17800 6900 17800 3000
+Wire Wire Line
+	17800 3000 17800 2500
+Wire Wire Line
+	17800 2500 17800 1000
+Wire Wire Line
+	17800 1000 17600 1000
+Wire Wire Line
+	17600 3000 17800 3000
+Wire Wire Line
+	17600 9000 17800 9000
+Wire Wire Line
+	17800 9700 19000 9700
+Wire Wire Line
+	17600 6900 17800 6900
+Wire Wire Line
+	19300 2500 17800 2500
+Connection ~ 17800 3000
+Connection ~ 17800 9000
+Connection ~ 17800 9700
+Text GLabel 19000 9700 2    70   BiDi ~ 0
+D1
+Connection ~ 17800 6900
+Connection ~ 17800 2500
+Wire Wire Line
+	1000 10700 1400 10700
+Text GLabel 1000 10700 0    70   BiDi ~ 0
+D1
+Wire Wire Line
+	4900 12600 4600 12600
+Text GLabel 4900 12600 2    70   BiDi ~ 0
+D1
+Wire Wire Line
+	10300 5600 12600 5600
+Text GLabel 10325 5600 0    70   BiDi ~ 0
+D1
+Wire Wire Line
+	10300 9100 10600 9100
+Text GLabel 10325 9100 0    70   BiDi ~ 0
+D2
+Wire Wire Line
+	10300 11500 10600 11500
+Text GLabel 10300 11500 0    70   BiDi ~ 0
+D2
+Wire Wire Line
+	17600 1100 17900 1100
+Wire Wire Line
+	17900 1100 17900 2600
+Wire Wire Line
+	17900 2600 17900 3100
+Wire Wire Line
+	17900 3100 17900 7000
+Wire Wire Line
+	17900 7000 17900 9100
+Wire Wire Line
+	17900 9100 17900 9800
+Wire Wire Line
+	17900 9800 17900 12200
+Wire Wire Line
+	17900 12200 17600 12200
+Wire Wire Line
+	17600 3100 17900 3100
+Wire Wire Line
+	17600 9100 17900 9100
+Wire Wire Line
+	19000 9800 17900 9800
+Wire Wire Line
+	17900 7000 17600 7000
+Wire Wire Line
+	17900 2600 19300 2600
+Connection ~ 17900 3100
+Connection ~ 17900 9100
+Connection ~ 17900 9800
+Text GLabel 19000 9800 2    70   BiDi ~ 0
+D2
+Connection ~ 17900 7000
+Connection ~ 17900 2600
+Wire Wire Line
+	1000 10800 1400 10800
+Text GLabel 1000 10800 0    70   BiDi ~ 0
+D2
+Wire Wire Line
+	4900 12700 4600 12700
+Text GLabel 4900 12700 2    70   BiDi ~ 0
+D2
+Wire Wire Line
+	10300 5800 12600 5800
+Text GLabel 10300 5800 0    70   BiDi ~ 0
+D2
+Wire Wire Line
+	10300 9200 10600 9200
+Text GLabel 10325 9200 0    70   BiDi ~ 0
+D3
+Wire Wire Line
+	10300 11600 10600 11600
+Text GLabel 10300 11600 0    70   BiDi ~ 0
+D3
+Wire Wire Line
+	17600 12300 18000 12300
+Wire Wire Line
+	18000 12300 18000 9900
+Wire Wire Line
+	18000 9900 18000 9200
+Wire Wire Line
+	18000 9200 18000 7100
+Wire Wire Line
+	18000 7100 18000 3200
+Wire Wire Line
+	18000 3200 18000 2700
+Wire Wire Line
+	18000 2700 18000 1200
+Wire Wire Line
+	18000 1200 17600 1200
+Wire Wire Line
+	17600 3200 18000 3200
+Wire Wire Line
+	17600 9200 18000 9200
+Wire Wire Line
+	18000 9900 19000 9900
+Wire Wire Line
+	17600 7100 18000 7100
+Wire Wire Line
+	19300 2700 18000 2700
+Connection ~ 18000 3200
+Connection ~ 18000 9200
+Connection ~ 18000 9900
+Text GLabel 19000 9900 2    70   BiDi ~ 0
+D3
+Connection ~ 18000 7100
+Connection ~ 18000 2700
+Wire Wire Line
+	1400 10900 1000 10900
+Text GLabel 1000 10900 0    70   BiDi ~ 0
+D3
+Wire Wire Line
+	4600 12800 4900 12800
+Text GLabel 4900 12800 2    70   BiDi ~ 0
+D3
+Wire Wire Line
+	12600 6000 10300 6000
+Text GLabel 10300 6000 0    70   BiDi ~ 0
+D3
+Wire Wire Line
+	10300 9300 10600 9300
+Text GLabel 10325 9300 0    70   BiDi ~ 0
+D4
+Wire Wire Line
+	10300 11700 10600 11700
+Text GLabel 10300 11700 0    70   BiDi ~ 0
+D4
+Wire Wire Line
+	17600 1900 18100 1900
+Wire Wire Line
+	18100 1900 18100 2800
+Wire Wire Line
+	18100 2800 18100 3900
+Wire Wire Line
+	18100 3900 18100 7800
+Wire Wire Line
+	18100 7800 18100 10000
+Wire Wire Line
+	18100 10000 18100 10900
+Wire Wire Line
+	18100 10900 18100 13000
+Wire Wire Line
+	18100 13000 17600 13000
+Wire Wire Line
+	17600 3900 18100 3900
+Wire Wire Line
+	17600 10900 18100 10900
+Wire Wire Line
+	19000 10000 18100 10000
+Wire Wire Line
+	18100 7800 17600 7800
+Wire Wire Line
+	18100 2800 19300 2800
+Connection ~ 18100 3900
+Connection ~ 18100 10900
+Connection ~ 18100 10000
+Text GLabel 19000 10000 2    70   BiDi ~ 0
+D4
+Connection ~ 18100 7800
+Connection ~ 18100 2800
+Wire Wire Line
+	1000 11000 1400 11000
+Text GLabel 1000 11000 0    70   BiDi ~ 0
+D4
+Wire Wire Line
+	4900 13500 4600 13500
+Text GLabel 4900 13500 2    70   BiDi ~ 0
+D4
+Wire Wire Line
+	10300 6900 12600 6900
+Text GLabel 10300 6900 0    70   BiDi ~ 0
+D4
+Wire Wire Line
+	10300 9400 10600 9400
+Text GLabel 10300 9400 0    70   BiDi ~ 0
+D5
+Wire Wire Line
+	10300 11800 10600 11800
+Text GLabel 10300 11800 0    70   BiDi ~ 0
+D5
+Wire Wire Line
+	17600 2000 18200 2000
+Wire Wire Line
+	18200 2000 18200 2900
+Wire Wire Line
+	18200 2900 18200 4000
+Wire Wire Line
+	18200 4000 18200 7900
+Wire Wire Line
+	18200 7900 18200 10100
+Wire Wire Line
+	18200 10100 18200 11000
+Wire Wire Line
+	18200 11000 18200 13100
+Wire Wire Line
+	18200 13100 17600 13100
+Wire Wire Line
+	17600 4000 18200 4000
+Wire Wire Line
+	17600 11000 18200 11000
+Wire Wire Line
+	18200 10100 19000 10100
+Wire Wire Line
+	17600 7900 18200 7900
+Wire Wire Line
+	19300 2900 18200 2900
+Connection ~ 18200 4000
+Connection ~ 18200 11000
+Connection ~ 18200 10100
+Text GLabel 19000 10100 2    70   BiDi ~ 0
+D5
+Connection ~ 18200 7900
+Connection ~ 18200 2900
+Wire Wire Line
+	1400 11100 1000 11100
+Text GLabel 1000 11100 0    70   BiDi ~ 0
+D5
+Wire Wire Line
+	4600 13600 4900 13600
+Text GLabel 4900 13600 2    70   BiDi ~ 0
+D5
+Wire Wire Line
+	12600 7100 10300 7100
+Text GLabel 10300 7100 0    70   BiDi ~ 0
+D5
+Wire Wire Line
+	10300 9500 10600 9500
+Text GLabel 10300 9500 0    70   BiDi ~ 0
+D6
+Wire Wire Line
+	10300 11900 10600 11900
+Text GLabel 10300 11900 0    70   BiDi ~ 0
+D6
+Wire Wire Line
+	17600 13200 18300 13200
+Wire Wire Line
+	18300 13200 18300 11100
+Wire Wire Line
+	18300 11100 18300 10200
+Wire Wire Line
+	18300 10200 18300 8000
+Wire Wire Line
+	18300 8000 18300 4100
+Wire Wire Line
+	18300 4100 18300 3000
+Wire Wire Line
+	18300 3000 18300 2100
+Wire Wire Line
+	18300 2100 17600 2100
+Wire Wire Line
+	17600 4100 18300 4100
+Wire Wire Line
+	17600 11100 18300 11100
+Wire Wire Line
+	19000 10200 18300 10200
+Wire Wire Line
+	18300 8000 17600 8000
+Wire Wire Line
+	18300 3000 19300 3000
+Connection ~ 18300 4100
+Connection ~ 18300 11100
+Connection ~ 18300 10200
+Text GLabel 19025 10200 2    70   BiDi ~ 0
+D6
+Connection ~ 18300 8000
+Connection ~ 18300 3000
+Wire Wire Line
+	1400 11200 1000 11200
+Text GLabel 1000 11200 0    70   BiDi ~ 0
+D6
+Wire Wire Line
+	4900 13700 4600 13700
+Text GLabel 4900 13700 2    70   BiDi ~ 0
+D6
+Wire Wire Line
+	10300 7300 12600 7300
+Text GLabel 10325 7300 0    70   BiDi ~ 0
+D6
+Wire Wire Line
+	10300 9600 10600 9600
+Text GLabel 10300 9600 0    70   BiDi ~ 0
+D7
+Wire Wire Line
+	10300 12000 10600 12000
+Text GLabel 10300 12000 0    70   BiDi ~ 0
+D7
+Wire Wire Line
+	17600 13300 18400 13300
+Wire Wire Line
+	18400 13300 18400 11200
+Wire Wire Line
+	18400 11200 18400 10300
+Wire Wire Line
+	18400 10300 18400 8100
+Wire Wire Line
+	18400 8100 18400 4200
+Wire Wire Line
+	18400 4200 18400 3100
+Wire Wire Line
+	18400 3100 18400 2200
+Wire Wire Line
+	18400 2200 17600 2200
+Wire Wire Line
+	17600 4200 18400 4200
+Wire Wire Line
+	17600 11200 18400 11200
+Wire Wire Line
+	18400 10300 19000 10300
+Wire Wire Line
+	17600 8100 18400 8100
+Wire Wire Line
+	19300 3100 18400 3100
+Connection ~ 18400 4200
+Connection ~ 18400 11200
+Connection ~ 18400 10300
+Text GLabel 19000 10300 2    70   BiDi ~ 0
+D7
+Connection ~ 18400 8100
+Connection ~ 18400 3100
+Wire Wire Line
+	1000 11300 1400 11300
+Text GLabel 1000 11300 0    70   BiDi ~ 0
+D7
+Wire Wire Line
+	4600 13800 4900 13800
+Text GLabel 4900 13800 2    70   BiDi ~ 0
+D7
+Wire Wire Line
+	12600 7500 10300 7500
+Text GLabel 10300 7500 0    70   BiDi ~ 0
+D7
+Wire Wire Line
+	10300 9800 10600 9800
+Text Label 10300 9800 2    70   ~ 0
+ACLK
+Wire Wire Line
+	28800 4000 28500 4000
+Text Label 28800 4000 0    70   ~ 0
+ACLK
+Wire Wire Line
+	10300 12200 10600 12200
+Text Label 10300 12200 2    70   ~ 0
+BCLK
+Wire Wire Line
+	28800 5800 28500 5800
+Text Label 28800 5800 0    70   ~ 0
+BCLK
+Wire Wire Line
+	10500 10000 10500 9900
+Wire Wire Line
+	10500 9900 10600 9900
+Text GLabel 10500 10000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	10500 12400 10500 12300
+Wire Wire Line
+	10500 12300 10600 12300
+Text GLabel 10500 12400 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	16500 6200 16500 6100
+Wire Wire Line
+	16500 6100 16600 6100
+Text GLabel 16500 6200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	12600 6300 11500 6300
+Wire Wire Line
+	11500 6300 11500 7800
+Wire Wire Line
+	11500 7800 12600 7800
+Wire Wire Line
+	11500 8000 11500 7800
+Connection ~ 11500 7800
+Text GLabel 12600 6300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14100 8000 14100 7800
+Wire Wire Line
+	14100 7800 14400 7800
+Text GLabel 14100 8000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	27400 5100 27400 4800
+Wire Wire Line
+	27400 4800 27500 4800
+Wire Wire Line
+	27400 4800 27400 4700
+Wire Wire Line
+	27400 4700 27500 4700
+Wire Wire Line
+	27400 4300 27400 4400
+Wire Wire Line
+	27400 4400 27400 4500
+Wire Wire Line
+	27400 4500 27400 4700
+Wire Wire Line
+	27500 4300 27400 4300
+Wire Wire Line
+	27500 4400 27400 4400
+Wire Wire Line
+	27500 4500 27400 4500
+Connection ~ 27400 4800
+Connection ~ 27400 4700
+Connection ~ 27400 4400
+Connection ~ 27400 4500
+Text GLabel 27400 5100 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	27400 7300 27400 7000
+Wire Wire Line
+	27400 7000 27500 7000
+Wire Wire Line
+	27400 7000 27400 6900
+Wire Wire Line
+	27400 6900 27500 6900
+Wire Wire Line
+	27400 6500 27400 6600
+Wire Wire Line
+	27400 6600 27400 6700
+Wire Wire Line
+	27400 6700 27400 6900
+Wire Wire Line
+	27500 6500 27400 6500
+Wire Wire Line
+	27500 6600 27400 6600
+Wire Wire Line
+	27500 6700 27400 6700
+Connection ~ 27400 7000
+Connection ~ 27400 6900
+Connection ~ 27400 6600
+Connection ~ 27400 6700
+Text GLabel 27400 7300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	27400 9500 27400 9200
+Wire Wire Line
+	27400 9200 27500 9200
+Wire Wire Line
+	27400 9200 27400 9100
+Wire Wire Line
+	27400 9100 27500 9100
+Wire Wire Line
+	27400 8700 27400 8800
+Wire Wire Line
+	27400 8800 27400 8900
+Wire Wire Line
+	27400 8900 27400 9100
+Wire Wire Line
+	27500 8700 27400 8700
+Wire Wire Line
+	27500 8800 27400 8800
+Wire Wire Line
+	27500 8900 27400 8900
+Connection ~ 27400 9200
+Connection ~ 27400 9100
+Connection ~ 27400 8800
+Connection ~ 27400 8900
+Text GLabel 27400 9500 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	1300 11700 1300 11600
+Wire Wire Line
+	1300 11600 1400 11600
+Text GLabel 1300 11700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	24200 5700 24100 5700
+Wire Wire Line
+	24100 5700 24100 5900
+Text GLabel 24200 5700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	22800 6100 22800 6000
+Wire Wire Line
+	22800 6000 22900 6000
+Text GLabel 22800 6100 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	24100 4300 24100 3600
+Wire Wire Line
+	24100 3600 24200 3600
+Wire Wire Line
+	24100 3600 24100 3500
+Wire Wire Line
+	24100 3500 24100 3400
+Wire Wire Line
+	24100 3400 24100 3300
+Wire Wire Line
+	24100 3300 24200 3300
+Wire Wire Line
+	24200 3400 24100 3400
+Wire Wire Line
+	24100 3500 24200 3500
+Connection ~ 24100 3600
+Connection ~ 24100 3400
+Connection ~ 24100 3500
+Text GLabel 24100 4300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	15000 9400 15000 10000
+Wire Wire Line
+	15000 10000 15000 10100
+Wire Wire Line
+	15000 10100 15000 10200
+Wire Wire Line
+	15000 10200 15000 10300
+Wire Wire Line
+	15000 10300 15100 10300
+Wire Wire Line
+	15100 10200 15000 10200
+Wire Wire Line
+	15000 10100 15100 10100
+Wire Wire Line
+	15100 10000 15000 10000
+Connection ~ 15000 10200
+Connection ~ 15000 10100
+Connection ~ 15000 10000
+Text Label 15000 9400 0    10   ~ 0
+VCC
+Wire Wire Line
+	21900 8600 21800 8600
+Wire Wire Line
+	21800 8600 21800 8700
+Wire Wire Line
+	21800 8700 21800 8800
+Wire Wire Line
+	21800 8800 21800 8900
+Wire Wire Line
+	21800 8900 21800 9000
+Wire Wire Line
+	21800 9000 21900 9000
+Wire Wire Line
+	21900 8900 21800 8900
+Wire Wire Line
+	21800 8800 21900 8800
+Wire Wire Line
+	21900 8700 21800 8700
+Wire Wire Line
+	21800 8600 21800 7700
+Wire Wire Line
+	21800 9000 21800 10100
+Wire Wire Line
+	21800 10100 21900 10100
+Connection ~ 21800 8900
+Connection ~ 21800 8800
+Connection ~ 21800 8700
+Connection ~ 21800 8600
+Connection ~ 21800 9000
+Text Label 21900 8600 0    10   ~ 0
+VCC
+Wire Wire Line
+	10300 7600 12600 7600
+Text Label 10325 7600 2    70   ~ 0
+VCC
+Wire Wire Line
+	23900 4000 24200 4000
+Wire Wire Line
+	23900 4000 23900 3900
+Wire Wire Line
+	23900 3900 24200 3900
+Wire Wire Line
+	23900 3900 23900 3700
+Connection ~ 23900 3900
+Text Label 23900 4000 0    10   ~ 0
+VCC
+Wire Wire Line
+	19400 13800 19300 13800
+Wire Wire Line
+	19300 13800 19300 13600
+Wire Wire Line
+	19300 13600 19300 13100
+Wire Wire Line
+	19300 13100 19300 12900
+Wire Wire Line
+	19300 12900 19300 12800
+Wire Wire Line
+	19400 13600 19300 13600
+Wire Wire Line
+	19400 13100 19300 13100
+Wire Wire Line
+	19400 12900 19300 12900
+Connection ~ 19300 13600
+Connection ~ 19300 13100
+Connection ~ 19300 12900
+Text Label 19400 13800 0    10   ~ 0
+VCC
+Wire Wire Line
+	26100 11500 26000 11500
+Wire Wire Line
+	26000 11500 26000 11400
+Text Label 26100 11500 0    10   ~ 0
+VCC
+Wire Wire Line
+	16500 5600 16600 5600
+Wire Wire Line
+	16500 5600 16500 4800
+Text Label 16500 5600 0    10   ~ 0
+VCC
+Wire Wire Line
+	16600 6900 15700 6900
+Wire Wire Line
+	15700 6900 15400 6900
+Wire Wire Line
+	15700 6900 15700 5000
+Wire Wire Line
+	15700 5000 16600 5000
+Connection ~ 15700 6900
+Wire Wire Line
+	15400 7100 15900 7100
+Wire Wire Line
+	15900 7100 16600 7100
+Wire Wire Line
+	15900 7100 15900 5200
+Wire Wire Line
+	15900 5200 16600 5200
+Connection ~ 15900 7100
+Wire Wire Line
+	16600 7000 15800 7000
+Wire Wire Line
+	15800 7000 15400 7000
+Wire Wire Line
+	15800 7000 15800 5100
+Wire Wire Line
+	15800 5100 16600 5100
+Connection ~ 15800 7000
+Wire Wire Line
+	16600 7300 16500 7300
+Wire Wire Line
+	16500 7300 16500 8300
+Wire Wire Line
+	16500 8300 16600 8300
+Wire Wire Line
+	16500 8300 10300 8300
+Connection ~ 16500 8300
+Text Label 10350 8300 2    70   ~ 0
+~FOE
+Wire Wire Line
+	28800 6000 28500 6000
+Text Label 28800 6000 0    70   ~ 0
+~FOE
+Wire Wire Line
+	15400 7200 16300 7200
+Wire Wire Line
+	16300 7200 16300 7800
+Wire Wire Line
+	16300 7800 16600 7800
+Wire Wire Line
+	16300 7200 16300 5300
+Wire Wire Line
+	16300 5300 16600 5300
+Connection ~ 16300 7200
+Wire Wire Line
+	16600 7900 16200 7900
+Wire Wire Line
+	16200 7900 16200 7300
+Wire Wire Line
+	16200 7300 15400 7300
+Wire Wire Line
+	16200 7300 16200 5400
+Wire Wire Line
+	16200 5400 16600 5400
+Connection ~ 16200 7300
+Wire Wire Line
+	15400 7400 15500 7400
+Wire Wire Line
+	15500 7400 16100 7400
+Wire Wire Line
+	16100 7400 16100 8000
+Wire Wire Line
+	16100 8000 16600 8000
+Wire Wire Line
+	16100 7400 16100 5500
+Wire Wire Line
+	16100 5500 16600 5500
+Wire Wire Line
+	16600 4200 15500 4200
+Wire Wire Line
+	15500 4200 15500 7400
+Connection ~ 16100 7400
+Connection ~ 15500 7400
+Wire Wire Line
+	18700 6500 14600 6500
+Wire Wire Line
+	14600 6500 14600 5100
+Wire Wire Line
+	14600 5100 10300 5100
+Text Label 10300 5100 2    70   ~ 0
+I3
+Wire Wire Line
+	26800 3800 26800 6000
+Wire Wire Line
+	26800 6000 26800 8200
+Wire Wire Line
+	25400 3800 26800 3800
+Wire Wire Line
+	25200 5100 25400 5100
+Wire Wire Line
+	25400 5100 25400 3800
+Wire Wire Line
+	26800 8200 27500 8200
+Wire Wire Line
+	27500 6000 26800 6000
+Wire Wire Line
+	26800 3800 27500 3800
+Text Label 26100 3800 0    70   ~ 0
+I3
+Connection ~ 26800 6000
+Connection ~ 26800 3800
+Wire Wire Line
+	13600 7500 14400 7500
+Wire Wire Line
+	13600 5600 14200 5600
+Wire Wire Line
+	14200 5600 14200 6900
+Wire Wire Line
+	14200 6900 14400 6900
+Wire Wire Line
+	13600 5800 14100 5800
+Wire Wire Line
+	14100 5800 14100 7000
+Wire Wire Line
+	14100 7000 14400 7000
+Wire Wire Line
+	13600 6000 14000 6000
+Wire Wire Line
+	14000 6000 14000 7100
+Wire Wire Line
+	14000 7100 14400 7100
+Wire Wire Line
+	13600 6900 13900 6900
+Wire Wire Line
+	13900 6900 13900 7200
+Wire Wire Line
+	13900 7200 14400 7200
+Wire Wire Line
+	13600 7100 13800 7100
+Wire Wire Line
+	13800 7100 13800 7300
+Wire Wire Line
+	13800 7300 14400 7300
+Wire Wire Line
+	10300 5000 14700 5000
+Wire Wire Line
+	14700 5000 14700 6000
+Wire Wire Line
+	14700 6000 16600 6000
+Text Label 10300 5000 2    70   ~ 0
+I2
+Wire Wire Line
+	13500 12100 13000 12100
+Wire Wire Line
+	13000 12100 13000 10600
+Wire Wire Line
+	13000 10600 13000 10100
+Wire Wire Line
+	13000 10100 13500 10100
+Wire Wire Line
+	13000 10600 10300 10600
+Connection ~ 13000 10600
+Text Label 10300 10600 2    70   ~ 0
+I2
+Wire Wire Line
+	27500 8100 26700 8100
+Wire Wire Line
+	26700 8100 26700 5900
+Wire Wire Line
+	26700 5900 27500 5900
+Wire Wire Line
+	26700 5900 26700 3700
+Wire Wire Line
+	26700 3700 27500 3700
+Wire Wire Line
+	25200 5000 25300 5000
+Wire Wire Line
+	25300 5000 25300 3700
+Wire Wire Line
+	25300 3700 26700 3700
+Connection ~ 26700 5900
+Connection ~ 26700 3700
+Text Label 26100 3700 0    70   ~ 0
+I2
+Wire Wire Line
+	16600 5900 14800 5900
+Wire Wire Line
+	14800 5900 14800 4900
+Wire Wire Line
+	14800 4900 10300 4900
+Text Label 10300 4900 2    70   ~ 0
+I1
+Wire Wire Line
+	26000 4900 25200 4900
+Text Label 26000 4900 0    70   ~ 0
+I1
+Wire Wire Line
+	13500 10000 13100 10000
+Wire Wire Line
+	13100 10000 13100 10500
+Wire Wire Line
+	13100 10500 13100 12000
+Wire Wire Line
+	13100 12000 13500 12000
+Wire Wire Line
+	10300 10500 13100 10500
+Connection ~ 13100 10500
+Text Label 10300 10500 2    70   ~ 0
+I1
+Wire Wire Line
+	10300 4800 14900 4800
+Wire Wire Line
+	14900 4800 14900 5800
+Wire Wire Line
+	14900 5800 16600 5800
+Text Label 10325 4800 2    70   ~ 0
+I0
+Wire Wire Line
+	25200 4800 26000 4800
+Text Label 26000 4800 0    70   ~ 0
+I0
+Wire Wire Line
+	13500 11900 13200 11900
+Wire Wire Line
+	13200 11900 13200 10400
+Wire Wire Line
+	13200 10400 13200 9900
+Wire Wire Line
+	13200 9900 13500 9900
+Wire Wire Line
+	13200 10400 10300 10400
+Connection ~ 13200 10400
+Text Label 10300 10400 2    70   ~ 0
+I0
+Wire Wire Line
+	19700 6400 19800 6400
+Wire Wire Line
+	19800 6600 19700 6600
+Wire Wire Line
+	19700 6600 19700 7000
+Wire Wire Line
+	19700 7000 19400 7000
+Text Label 19400 7000 2    70   ~ 0
+~JMP
+Wire Wire Line
+	28800 6100 28500 6100
+Text Label 28800 6100 0    70   ~ 0
+~JMP
+Wire Wire Line
+	20800 6500 21100 6500
+Text Label 21100 6500 0    70   ~ 0
+~PCLD
+Wire Wire Line
+	3900 7900 3600 7900
+Wire Wire Line
+	3600 7900 3600 7800
+Wire Wire Line
+	3600 7800 3600 6400
+Wire Wire Line
+	3600 6400 3600 4900
+Wire Wire Line
+	3600 4900 3600 3400
+Wire Wire Line
+	3600 3400 3900 3400
+Wire Wire Line
+	3900 6400 3600 6400
+Wire Wire Line
+	3900 4900 3600 4900
+Wire Wire Line
+	3600 7800 1000 7800
+Connection ~ 3600 6400
+Connection ~ 3600 4900
+Connection ~ 3600 7800
+Text Label 1000 7800 2    70   ~ 0
+~PCLD
+Wire Wire Line
+	12600 7900 11600 7900
+Wire Wire Line
+	11600 7900 11600 6400
+Wire Wire Line
+	11600 6400 12600 6400
+Wire Wire Line
+	11600 7900 10300 7900
+Connection ~ 11600 7900
+Text Label 10300 7900 2    70   ~ 0
+FSORS
+Wire Wire Line
+	28800 3700 28500 3700
+Text Label 28800 3700 0    70   ~ 0
+FSORS
+Wire Wire Line
+	16600 11200 14500 11200
+Text Label 15475 11200 0    70   ~ 0
+ALUF7
+Wire Wire Line
+	20100 8500 20900 8500
+Wire Wire Line
+	20900 8500 21900 8500
+Wire Wire Line
+	21900 10000 20900 10000
+Wire Wire Line
+	20900 10000 20900 8500
+Text Label 20100 8500 2    70   ~ 0
+ALUF7
+Connection ~ 20900 8500
+Wire Wire Line
+	22700 11500 21100 11500
+Text Label 21100 11500 2    70   ~ 0
+ALUF7
+Wire Wire Line
+	22900 9500 23200 9500
+Text Label 23200 9500 0    70   ~ 0
+EVEN
+Wire Wire Line
+	10300 7200 12600 7200
+Text Label 10325 7200 2    70   ~ 0
+EVEN
+Wire Wire Line
+	22900 9300 23200 9300
+Text Label 23200 9300 0    70   ~ 0
+ODD
+Wire Wire Line
+	14400 7700 13700 7700
+Wire Wire Line
+	13700 7700 13700 8400
+Wire Wire Line
+	13700 8400 10300 8400
+Text Label 10350 8400 2    70   ~ 0
+FLCK
+Wire Wire Line
+	28800 3800 28500 3800
+Text Label 28800 3800 0    70   ~ 0
+FLCK
+Wire Wire Line
+	23900 5800 24200 5800
+Wire Wire Line
+	24200 3800 22300 3800
+Text Label 22300 3800 2    70   ~ 0
+CLK
+Wire Wire Line
+	25200 3300 25300 3300
+Wire Wire Line
+	25300 3300 26300 3300
+Wire Wire Line
+	26300 3300 27500 3300
+Wire Wire Line
+	26300 3300 26300 5500
+Wire Wire Line
+	26300 5500 27500 5500
+Wire Wire Line
+	26300 5500 26300 7700
+Wire Wire Line
+	26300 7700 27500 7700
+Wire Wire Line
+	22900 5600 22800 5600
+Wire Wire Line
+	22800 5600 22800 2900
+Wire Wire Line
+	22800 2900 25300 2900
+Wire Wire Line
+	25300 2900 25300 3300
+Connection ~ 26300 3300
+Connection ~ 26300 5500
+Connection ~ 25300 3300
+Wire Wire Line
+	27500 3400 26400 3400
+Wire Wire Line
+	26400 3400 25400 3400
+Wire Wire Line
+	25400 3400 25200 3400
+Wire Wire Line
+	26400 3400 26400 5600
+Wire Wire Line
+	26400 5600 27500 5600
+Wire Wire Line
+	26400 5600 26400 7800
+Wire Wire Line
+	26400 7800 27500 7800
+Wire Wire Line
+	22900 5700 22700 5700
+Wire Wire Line
+	22700 5700 22700 2800
+Wire Wire Line
+	22700 2800 25400 2800
+Wire Wire Line
+	25400 2800 25400 3400
+Connection ~ 26400 3400
+Connection ~ 26400 5600
+Connection ~ 25400 3400
+Wire Wire Line
+	25200 3500 25500 3500
+Wire Wire Line
+	25500 3500 26500 3500
+Wire Wire Line
+	26500 3500 27500 3500
+Wire Wire Line
+	26500 3500 26500 5700
+Wire Wire Line
+	26500 5700 27500 5700
+Wire Wire Line
+	26500 5700 26500 7900
+Wire Wire Line
+	26500 7900 27500 7900
+Wire Wire Line
+	22900 5800 22600 5800
+Wire Wire Line
+	22600 5800 22600 2700
+Wire Wire Line
+	22600 2700 25500 2700
+Wire Wire Line
+	25500 2700 25500 3500
+Connection ~ 26500 3500
+Connection ~ 26500 5700
+Connection ~ 25500 3500
+Wire Wire Line
+	27500 3600 26600 3600
+Wire Wire Line
+	26600 3600 25600 3600
+Wire Wire Line
+	25600 3600 25200 3600
+Wire Wire Line
+	26600 3600 26600 5800
+Wire Wire Line
+	26600 5800 26600 8000
+Wire Wire Line
+	26600 8000 27500 8000
+Wire Wire Line
+	22900 5900 22500 5900
+Wire Wire Line
+	22500 5900 22500 2600
+Wire Wire Line
+	22500 2600 25600 2600
+Wire Wire Line
+	25600 2600 25600 3600
+Wire Wire Line
+	26600 5800 27500 5800
+Connection ~ 26600 3600
+Connection ~ 25600 3600
+Connection ~ 26600 5800
+Wire Wire Line
+	27200 4200 27200 6400
+Wire Wire Line
+	27200 6400 27200 8600
+Wire Wire Line
+	25800 4200 27200 4200
+Wire Wire Line
+	25200 5500 25800 5500
+Wire Wire Line
+	25800 5500 25800 4200
+Wire Wire Line
+	27200 8600 27500 8600
+Wire Wire Line
+	27500 6400 27200 6400
+Wire Wire Line
+	27200 4200 27500 4200
+Text Label 26100 4200 0    70   ~ 0
+I7
+Connection ~ 27200 6400
+Connection ~ 27200 4200
+Wire Wire Line
+	27100 4100 27100 6300
+Wire Wire Line
+	27100 6300 27100 8500
+Wire Wire Line
+	25700 4100 27100 4100
+Wire Wire Line
+	25200 5400 25700 5400
+Wire Wire Line
+	25700 5400 25700 4100
+Wire Wire Line
+	27500 8500 27100 8500
+Wire Wire Line
+	27100 6300 27500 6300
+Wire Wire Line
+	27500 4100 27100 4100
+Text Label 26100 4100 0    70   ~ 0
+I6
+Connection ~ 27100 6300
+Connection ~ 27100 4100
+Wire Wire Line
+	27000 4000 27000 6200
+Wire Wire Line
+	27000 6200 27000 8400
+Wire Wire Line
+	25600 4000 27000 4000
+Wire Wire Line
+	25200 5300 25600 5300
+Wire Wire Line
+	25600 5300 25600 4000
+Wire Wire Line
+	27000 8400 27500 8400
+Wire Wire Line
+	27500 6200 27000 6200
+Wire Wire Line
+	27000 4000 27500 4000
+Text Label 26100 4000 0    70   ~ 0
+I5
+Connection ~ 27000 6200
+Connection ~ 27000 4000
+Wire Wire Line
+	26900 3900 26900 6100
+Wire Wire Line
+	26900 6100 26900 8300
+Wire Wire Line
+	25500 3900 26900 3900
+Wire Wire Line
+	25200 5200 25500 5200
+Wire Wire Line
+	25500 5200 25500 3900
+Wire Wire Line
+	27500 8300 26900 8300
+Wire Wire Line
+	26900 6100 27500 6100
+Wire Wire Line
+	27500 3900 26900 3900
+Text Label 26100 3900 0    70   ~ 0
+I4
+Connection ~ 26900 6100
+Connection ~ 26900 3900
+Wire Wire Line
+	28500 3300 28800 3300
+Text GLabel 28800 3300 2    70   BiDi ~ 0
+~WRP
+Wire Wire Line
+	28800 3400 28500 3400
+Text GLabel 28800 3400 2    70   BiDi ~ 0
+~RDP
+Wire Wire Line
+	28800 6200 28500 6200
+Text Label 28800 6200 0    70   ~ 0
+~PCOE
+Wire Wire Line
+	5200 7600 5100 7600
+Wire Wire Line
+	5100 7600 5100 6100
+Wire Wire Line
+	5100 6100 5100 4600
+Wire Wire Line
+	5100 4600 5100 3100
+Wire Wire Line
+	5100 3100 5200 3100
+Wire Wire Line
+	5100 4600 5200 4600
+Wire Wire Line
+	5200 6100 5100 6100
+Wire Wire Line
+	5100 3100 5100 2300
+Wire Wire Line
+	5100 2300 1000 2300
+Connection ~ 5100 4600
+Connection ~ 5100 6100
+Connection ~ 5100 3100
+Text Label 1000 2300 2    70   ~ 0
+~PCOE
+Wire Wire Line
+	3900 3300 1000 3300
+Text Label 1000 3300 2    70   ~ 0
+~PCE2
+Wire Wire Line
+	3900 7700 3700 7700
+Wire Wire Line
+	3700 7700 3700 6900
+Wire Wire Line
+	3700 6900 3700 6200
+Wire Wire Line
+	3700 6200 3700 4700
+Wire Wire Line
+	3700 4700 3700 3200
+Wire Wire Line
+	3700 3200 3900 3200
+Wire Wire Line
+	3900 4700 3700 4700
+Wire Wire Line
+	3700 6200 3900 6200
+Wire Wire Line
+	3700 6900 1000 6900
+Connection ~ 3700 4700
+Connection ~ 3700 6200
+Connection ~ 3700 6900
+Text Label 1000 6900 2    70   ~ 0
+~PCE1
+Wire Wire Line
+	28800 7900 28500 7900
+Text Label 28800 7900 0    70   ~ 0
+PCCK
+Wire Wire Line
+	3900 7600 3400 7600
+Wire Wire Line
+	3400 7600 3400 6100
+Wire Wire Line
+	3400 6100 3400 4600
+Wire Wire Line
+	3400 4600 3400 3100
+Wire Wire Line
+	3400 3100 3900 3100
+Wire Wire Line
+	3900 4600 3400 4600
+Wire Wire Line
+	3900 6100 3400 6100
+Wire Wire Line
+	3400 7600 1000 7600
+Connection ~ 3400 4600
+Connection ~ 3400 6100
+Connection ~ 3400 7600
+Text Label 1000 7600 2    70   ~ 0
+PCCK
+Wire Wire Line
+	28800 8000 28500 8000
+Text Label 28800 8000 0    70   ~ 0
+CCLK
+Wire Wire Line
+	1400 11500 1000 11500
+Text Label 1050 11500 2    70   ~ 0
+CCLK
+Wire Wire Line
+	28800 8100 28500 8100
+Text Label 28800 8100 0    70   ~ 0
+~BCOE
+Wire Wire Line
+	5200 11900 5100 11900
+Wire Wire Line
+	5100 11900 5100 10900
+Wire Wire Line
+	5100 10900 5100 9900
+Wire Wire Line
+	5100 9900 5100 8900
+Wire Wire Line
+	5100 8900 5200 8900
+Wire Wire Line
+	5200 9900 5100 9900
+Wire Wire Line
+	5200 10900 5100 10900
+Wire Wire Line
+	5100 11900 1000 11900
+Connection ~ 5100 9900
+Connection ~ 5100 10900
+Connection ~ 5100 11900
+Text Label 1000 11900 2    70   ~ 0
+~BCOE
+Wire Wire Line
+	28800 8200 28500 8200
+Text GLabel 28800 8200 2    70   BiDi ~ 0
+~WRD
+Wire Wire Line
+	28800 8300 28500 8300
+Text GLabel 28800 8300 2    70   BiDi ~ 0
+~RDD
+Wire Wire Line
+	4900 3500 5000 3500
+Wire Wire Line
+	5000 3500 5000 3800
+Wire Wire Line
+	5000 3800 3800 3800
+Wire Wire Line
+	3800 3800 3800 4800
+Wire Wire Line
+	3800 4800 3900 4800
+Wire Wire Line
+	4900 5000 5000 5000
+Wire Wire Line
+	5000 5000 5000 5300
+Wire Wire Line
+	5000 5300 3800 5300
+Wire Wire Line
+	3800 5300 3800 6300
+Wire Wire Line
+	3800 6300 3900 6300
+Wire Wire Line
+	4900 6500 5000 6500
+Wire Wire Line
+	5000 6500 5000 6800
+Wire Wire Line
+	5000 6800 3800 6800
+Wire Wire Line
+	3800 6800 3800 7800
+Wire Wire Line
+	3800 7800 3900 7800
+Wire Wire Line
+	4900 2600 5200 2600
+Wire Wire Line
+	5200 2700 4900 2700
+Wire Wire Line
+	4900 2800 5200 2800
+Wire Wire Line
+	5200 2900 4900 2900
+Wire Wire Line
+	4900 4100 5200 4100
+Wire Wire Line
+	5200 4200 4900 4200
+Wire Wire Line
+	4900 4300 5200 4300
+Wire Wire Line
+	5200 4400 4900 4400
+Wire Wire Line
+	4900 5600 5200 5600
+Wire Wire Line
+	5200 5700 4900 5700
+Wire Wire Line
+	4900 5800 5200 5800
+Wire Wire Line
+	5200 5900 4900 5900
+Wire Wire Line
+	4900 7100 5200 7100
+Wire Wire Line
+	5200 7200 4900 7200
+Wire Wire Line
+	4900 7300 5200 7300
+Wire Wire Line
+	5200 7400 4900 7400
+Wire Wire Line
+	2400 10600 2500 10600
+Wire Wire Line
+	2500 10600 2500 10400
+Wire Wire Line
+	2500 10400 5200 10400
+Wire Wire Line
+	2500 10400 2500 5600
+Wire Wire Line
+	2500 5600 3900 5600
+Wire Wire Line
+	2500 10600 2500 12500
+Wire Wire Line
+	2500 12500 3600 12500
+Connection ~ 2500 10400
+Text GLabel 3825 10400 2    70   BiDi ~ 0
+C0
+Connection ~ 2500 10600
+Wire Wire Line
+	5200 10500 2600 10500
+Wire Wire Line
+	2600 10500 2600 10700
+Wire Wire Line
+	2600 10700 2400 10700
+Wire Wire Line
+	2600 10500 2600 5700
+Wire Wire Line
+	2600 5700 3900 5700
+Wire Wire Line
+	2600 10700 2600 12600
+Wire Wire Line
+	2600 12600 3600 12600
+Connection ~ 2600 10500
+Text GLabel 3800 10500 2    70   BiDi ~ 0
+C1
+Connection ~ 2600 10700
+Wire Wire Line
+	2400 10800 2700 10800
+Wire Wire Line
+	2700 10800 2700 10600
+Wire Wire Line
+	2700 10600 5200 10600
+Wire Wire Line
+	3900 5800 2700 5800
+Wire Wire Line
+	2700 5800 2700 10600
+Wire Wire Line
+	2700 10800 2700 12700
+Wire Wire Line
+	2700 12700 3600 12700
+Connection ~ 2700 10600
+Text GLabel 3800 10600 2    70   BiDi ~ 0
+C2
+Connection ~ 2700 10800
+Wire Wire Line
+	5200 10700 2800 10700
+Wire Wire Line
+	2800 10700 2800 10900
+Wire Wire Line
+	2800 10900 2400 10900
+Wire Wire Line
+	2800 10700 2800 5900
+Wire Wire Line
+	2800 5900 3900 5900
+Wire Wire Line
+	2800 10900 2800 12800
+Wire Wire Line
+	2800 12800 3600 12800
+Connection ~ 2800 10700
+Text GLabel 3800 10700 2    70   BiDi ~ 0
+C3
+Connection ~ 2800 10900
+Wire Wire Line
+	2400 11000 2900 11000
+Wire Wire Line
+	2900 11000 2900 11400
+Wire Wire Line
+	2900 11400 5200 11400
+Wire Wire Line
+	2900 11000 2900 7100
+Wire Wire Line
+	2900 7100 3900 7100
+Wire Wire Line
+	2900 11400 2900 13500
+Wire Wire Line
+	2900 13500 3600 13500
+Connection ~ 2900 11000
+Text GLabel 3800 11400 2    70   BiDi ~ 0
+C4
+Connection ~ 2900 11400
+Wire Wire Line
+	5200 11500 3000 11500
+Wire Wire Line
+	3000 11500 3000 11100
+Wire Wire Line
+	3000 11100 2400 11100
+Wire Wire Line
+	3000 11100 3000 7200
+Wire Wire Line
+	3000 7200 3900 7200
+Wire Wire Line
+	3000 11500 3000 13600
+Wire Wire Line
+	3000 13600 3600 13600
+Connection ~ 3000 11100
+Text GLabel 3800 11500 2    70   BiDi ~ 0
+C5
+Connection ~ 3000 11500
+Wire Wire Line
+	2400 11200 3100 11200
+Wire Wire Line
+	3100 11200 3100 11600
+Wire Wire Line
+	3100 11600 5200 11600
+Wire Wire Line
+	3100 11200 3100 7300
+Wire Wire Line
+	3100 7300 3900 7300
+Wire Wire Line
+	3100 11600 3100 13700
+Wire Wire Line
+	3100 13700 3600 13700
+Connection ~ 3100 11200
+Text GLabel 3800 11600 2    70   BiDi ~ 0
+C6
+Connection ~ 3100 11600
+Wire Wire Line
+	5200 11700 3200 11700
+Wire Wire Line
+	3200 11700 3200 11300
+Wire Wire Line
+	3200 11300 2400 11300
+Wire Wire Line
+	3200 11300 3200 7400
+Wire Wire Line
+	3200 7400 3900 7400
+Wire Wire Line
+	3200 11700 3200 13800
+Wire Wire Line
+	3200 13800 3600 13800
+Connection ~ 3200 11300
+Text GLabel 3775 11700 2    70   BiDi ~ 0
+C7
+Connection ~ 3200 11700
+Wire Wire Line
+	6200 2600 6300 2600
+Wire Wire Line
+	6300 2600 6300 7700
+Wire Wire Line
+	6300 7700 6300 8400
+Wire Wire Line
+	6300 8400 6200 8400
+Wire Wire Line
+	6300 7700 8400 7700
+Connection ~ 6300 7700
+Text GLabel 8400 7700 2    70   BiDi ~ 0
+PA0
+Wire Wire Line
+	6200 2700 6400 2700
+Wire Wire Line
+	6400 2700 6400 7800
+Wire Wire Line
+	6400 7800 6400 8500
+Wire Wire Line
+	6400 8500 6200 8500
+Wire Wire Line
+	8400 7800 6400 7800
+Connection ~ 6400 7800
+Text GLabel 8400 7800 2    70   BiDi ~ 0
+PA1
+Wire Wire Line
+	6200 2800 6500 2800
+Wire Wire Line
+	6500 2800 6500 7900
+Wire Wire Line
+	6500 7900 6500 8600
+Wire Wire Line
+	6500 8600 6200 8600
+Wire Wire Line
+	6500 7900 8400 7900
+Connection ~ 6500 7900
+Text GLabel 8400 7900 2    70   BiDi ~ 0
+PA2
+Wire Wire Line
+	6200 2900 6600 2900
+Wire Wire Line
+	6600 2900 6600 8000
+Wire Wire Line
+	6600 8000 6600 8700
+Wire Wire Line
+	6600 8700 6200 8700
+Wire Wire Line
+	8400 8000 6600 8000
+Connection ~ 6600 8000
+Text GLabel 8375 8000 2    70   BiDi ~ 0
+PA3
+Wire Wire Line
+	6200 4100 6700 4100
+Wire Wire Line
+	6700 4100 6700 8100
+Wire Wire Line
+	6700 8100 6700 9400
+Wire Wire Line
+	6700 9400 6200 9400
+Wire Wire Line
+	6700 8100 8400 8100
+Connection ~ 6700 8100
+Text GLabel 8400 8100 2    70   BiDi ~ 0
+PA4
+Wire Wire Line
+	6200 4200 6800 4200
+Wire Wire Line
+	6800 4200 6800 8200
+Wire Wire Line
+	6800 8200 6800 9500
+Wire Wire Line
+	6800 9500 6200 9500
+Wire Wire Line
+	8400 8200 6800 8200
+Connection ~ 6800 8200
+Text GLabel 8375 8200 2    70   BiDi ~ 0
+PA5
+Wire Wire Line
+	6200 4300 6900 4300
+Wire Wire Line
+	6900 4300 6900 8300
+Wire Wire Line
+	6900 8300 6900 9600
+Wire Wire Line
+	6900 9600 6200 9600
+Wire Wire Line
+	6900 8300 8400 8300
+Connection ~ 6900 8300
+Text GLabel 8400 8300 2    70   BiDi ~ 0
+PA6
+Wire Wire Line
+	6200 4400 7000 4400
+Wire Wire Line
+	7000 4400 7000 8400
+Wire Wire Line
+	7000 8400 7000 9700
+Wire Wire Line
+	7000 9700 6200 9700
+Wire Wire Line
+	8400 8400 7000 8400
+Connection ~ 7000 8400
+Text GLabel 8400 8400 2    70   BiDi ~ 0
+PA7
+Wire Wire Line
+	6200 5600 7100 5600
+Wire Wire Line
+	7100 5600 7100 8500
+Wire Wire Line
+	7100 8500 7100 10400
+Wire Wire Line
+	7100 10400 6200 10400
+Wire Wire Line
+	7100 8500 8400 8500
+Connection ~ 7100 8500
+Text GLabel 8400 8500 2    70   BiDi ~ 0
+PA8
+Wire Wire Line
+	6200 5700 7200 5700
+Wire Wire Line
+	7200 5700 7200 8600
+Wire Wire Line
+	7200 8600 7200 10500
+Wire Wire Line
+	7200 10500 6200 10500
+Wire Wire Line
+	8400 8600 7200 8600
+Connection ~ 7200 8600
+Text GLabel 8375 8600 2    70   BiDi ~ 0
+PA9
+Wire Wire Line
+	6200 5800 7300 5800
+Wire Wire Line
+	7300 5800 7300 8700
+Wire Wire Line
+	7300 8700 7300 10600
+Wire Wire Line
+	7300 10600 6200 10600
+Wire Wire Line
+	7300 8700 8400 8700
+Connection ~ 7300 8700
+Text GLabel 8400 8700 2    70   BiDi ~ 0
+PA10
+Wire Wire Line
+	6200 5900 7400 5900
+Wire Wire Line
+	7400 5900 7400 8800
+Wire Wire Line
+	7400 8800 7400 10700
+Wire Wire Line
+	7400 10700 6200 10700
+Wire Wire Line
+	8400 8800 7400 8800
+Connection ~ 7400 8800
+Text GLabel 8375 8800 2    70   BiDi ~ 0
+PA11
+Wire Wire Line
+	6200 7100 7500 7100
+Wire Wire Line
+	7500 7100 7500 8900
+Wire Wire Line
+	7500 8900 7500 11400
+Wire Wire Line
+	7500 11400 6200 11400
+Wire Wire Line
+	7500 8900 8400 8900
+Connection ~ 7500 8900
+Text GLabel 8400 8900 2    70   BiDi ~ 0
+PA12
+Wire Wire Line
+	6200 7200 7600 7200
+Wire Wire Line
+	7600 7200 7600 9000
+Wire Wire Line
+	7600 9000 7600 11500
+Wire Wire Line
+	7600 11500 6200 11500
+Wire Wire Line
+	8400 9000 7600 9000
+Connection ~ 7600 9000
+Text GLabel 8375 9000 2    70   BiDi ~ 0
+PA13
+Wire Wire Line
+	6200 7300 7700 7300
+Wire Wire Line
+	7700 7300 7700 9100
+Wire Wire Line
+	7700 9100 7700 11600
+Wire Wire Line
+	7700 11600 6200 11600
+Wire Wire Line
+	7700 9100 8400 9100
+Connection ~ 7700 9100
+Text GLabel 8400 9100 2    70   BiDi ~ 0
+PA14
+Wire Wire Line
+	6200 7400 7800 7400
+Wire Wire Line
+	7800 7400 7800 9200
+Wire Wire Line
+	7800 9200 7800 11700
+Wire Wire Line
+	7800 11700 6200 11700
+Wire Wire Line
+	8400 9200 7800 9200
+Connection ~ 7800 9200
+Text GLabel 8375 9200 2    70   BiDi ~ 0
+PA15
+Wire Wire Line
+	4900 8000 5000 8000
+Wire Wire Line
+	5000 8000 5000 12200
+Wire Wire Line
+	5000 12200 8400 12200
+Text Label 8400 12200 0    70   ~ 0
+RCO
+Wire Wire Line
+	28800 8400 28500 8400
+Text Label 28800 8400 0    70   ~ 0
+~UPCRST
+Wire Wire Line
+	23800 4100 24200 4100
+Text Label 23800 4100 2    70   ~ 0
+~UPCRST
+Wire Wire Line
+	18700 6300 18600 6300
+Wire Wire Line
+	18600 6300 18600 4900
+Wire Wire Line
+	18600 4900 17600 4900
+Wire Wire Line
+	24200 4800 24000 4800
+Text GLabel 24000 4800 0    70   BiDi ~ 0
+PD0
+Wire Wire Line
+	20300 2400 20600 2400
+Text GLabel 20600 2400 2    70   BiDi ~ 0
+PD0
+Wire Wire Line
+	24000 4900 24200 4900
+Text GLabel 24000 4900 0    70   BiDi ~ 0
+PD1
+Wire Wire Line
+	20600 2500 20300 2500
+Text GLabel 20600 2500 2    70   BiDi ~ 0
+PD1
+Wire Wire Line
+	24200 5000 24000 5000
+Text GLabel 24000 5000 0    70   BiDi ~ 0
+PD2
+Wire Wire Line
+	20300 2600 20600 2600
+Text GLabel 20600 2600 2    70   BiDi ~ 0
+PD2
+Wire Wire Line
+	24000 5100 24200 5100
+Text GLabel 24000 5100 0    70   BiDi ~ 0
+PD3
+Wire Wire Line
+	20600 2700 20300 2700
+Text GLabel 20600 2700 2    70   BiDi ~ 0
+PD3
+Wire Wire Line
+	24200 5200 24000 5200
+Text GLabel 24000 5200 0    70   BiDi ~ 0
+PD4
+Wire Wire Line
+	20300 2800 20600 2800
+Text GLabel 20600 2800 2    70   BiDi ~ 0
+PD4
+Wire Wire Line
+	24000 5300 24200 5300
+Text GLabel 24000 5300 0    70   BiDi ~ 0
+PD5
+Wire Wire Line
+	20600 2900 20300 2900
+Text GLabel 20600 2900 2    70   BiDi ~ 0
+PD5
+Wire Wire Line
+	24200 5400 24000 5400
+Text GLabel 24000 5400 0    70   BiDi ~ 0
+PD6
+Wire Wire Line
+	20300 3000 20600 3000
+Text GLabel 20600 3000 2    70   BiDi ~ 0
+PD6
+Wire Wire Line
+	24000 5500 24200 5500
+Text GLabel 24000 5500 0    70   BiDi ~ 0
+PD7
+Wire Wire Line
+	20600 3100 20300 3100
+Text GLabel 20600 3100 2    70   BiDi ~ 0
+PD7
+Wire Wire Line
+	28800 7800 28500 7800
+Text Label 28800 7800 0    70   ~ 0
+DDIR
+Wire Wire Line
+	19000 3300 19300 3300
+Text Label 19025 3300 2    70   ~ 0
+DDIR
+Wire Wire Line
+	28500 7700 28800 7700
+Text Label 28800 7700 0    70   ~ 0
+~DTOE
+Wire Wire Line
+	19300 3400 19000 3400
+Text Label 19050 3400 2    70   ~ 0
+~DTOE
+Wire Wire Line
+	24200 4200 23800 4200
+Text Label 23800 4200 2    70   ~ 0
+~RESET
+Wire Wire Line
+	3900 3500 3500 3500
+Wire Wire Line
+	3500 3500 3500 5000
+Wire Wire Line
+	3500 5000 3500 6500
+Wire Wire Line
+	3500 6500 3500 8000
+Wire Wire Line
+	3500 8000 3900 8000
+Wire Wire Line
+	3900 6500 3500 6500
+Wire Wire Line
+	3900 5000 3500 5000
+Wire Wire Line
+	3500 8000 1000 8000
+Connection ~ 3500 6500
+Connection ~ 3500 5000
+Connection ~ 3500 8000
+Text Label 1000 8000 2    70   ~ 0
+~RESET
+Wire Wire Line
+	13600 7300 13700 7300
+Wire Wire Line
+	13700 7300 13700 7400
+Wire Wire Line
+	13700 7400 14400 7400
+Wire Wire Line
+	14300 6800 14400 6800
+Wire Wire Line
+	13600 5400 14300 5400
+Wire Wire Line
+	14300 5400 14300 6800
+Wire Wire Line
+	23700 11400 23800 11400
+Wire Wire Line
+	23700 12100 23800 12100
+Wire Wire Line
+	24800 12200 24900 12200
+Wire Wire Line
+	24900 12200 24900 11800
+Wire Wire Line
+	24900 11800 25000 11800
+Wire Wire Line
+	25000 11600 24900 11600
+Wire Wire Line
+	24900 11600 24900 11300
+Wire Wire Line
+	24900 11300 24800 11300
+Wire Wire Line
+	28300 12000 28400 12000
+Text Label 28400 12000 0    70   ~ 0
+SIGN
+Wire Wire Line
+	10300 5700 12600 5700
+Text Label 10300 5700 2    70   ~ 0
+SIGN
+Wire Wire Line
+	23800 12300 23700 12300
+Wire Wire Line
+	23700 12300 23700 12500
+Wire Wire Line
+	23700 12500 22500 12500
+Wire Wire Line
+	26000 11700 26100 11700
+Wire Wire Line
+	22900 8400 23200 8400
+Text Label 23200 8400 0    70   ~ 0
+~ZERO
+Wire Wire Line
+	10300 6100 12600 6100
+Text Label 10300 6100 2    70   ~ 0
+~ZERO
+Wire Wire Line
+	16600 8100 16000 8100
+Wire Wire Line
+	16000 8100 16000 7500
+Wire Wire Line
+	16000 7500 15400 7500
+Wire Wire Line
+	28500 5500 28800 5500
+Text Label 28800 5500 0    70   ~ 0
+UNASSIGNED0
+Wire Wire Line
+	28800 5600 28500 5600
+Text Label 28800 5600 0    70   ~ 0
+UNASSIGNED1
+Wire Wire Line
+	3600 13000 3500 13000
+Wire Wire Line
+	3500 13000 3500 14000
+Wire Wire Line
+	3500 14000 3600 14000
+Wire Wire Line
+	3500 14000 1000 14000
+Connection ~ 3500 14000
+Text Label 1000 14000 2    70   ~ 0
+~COE
+Wire Wire Line
+	28800 5700 28500 5700
+Text Label 28800 5700 0    70   ~ 0
+~COE
+$Comp
+L MicroComp_v1.1-eagle-import:74381N IC5
+U 1 1 E57833A7
+P 14000 9600
+F 0 "IC5" H 13700 10425 59  0000 L BNN
+F 1 "74381N" H 13700 8700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 14000 9600 50  0001 C CNN
+F 3 "" H 14000 9600 50  0001 C CNN
+	1    14000 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74574N IC1
+U 1 1 06F92037
+P 11100 9400
+F 0 "IC1" H 10800 10025 59  0000 L BNN
+F 1 "74574N" H 10800 8700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 11100 9400 50  0001 C CNN
+F 3 "" H 11100 9400 50  0001 C CNN
+	1    11100 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74574N IC2
+U 1 1 541775CA
+P 11100 11800
+F 0 "IC2" H 10800 12425 59  0000 L BNN
+F 1 "74574N" H 10800 11100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 11100 11800 50  0001 C CNN
+F 3 "" H 11100 11800 50  0001 C CNN
+	1    11100 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74381N IC6
+U 1 1 6A4BA564
+P 14000 11600
+F 0 "IC6" H 13700 12425 59  0000 L BNN
+F 1 "74381N" H 13700 10700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 14000 11600 50  0001 C CNN
+F 3 "" H 14000 11600 50  0001 C CNN
+	1    14000 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC10
+U 1 1 D3C52631
+P 17100 2100
+F 0 "IC10" H 16800 2425 59  0000 L BNN
+F 1 "74244N" H 16800 1600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 2100 50  0001 C CNN
+F 3 "" H 17100 2100 50  0001 C CNN
+	1    17100 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC10
+U 2 1 D3C5263D
+P 17100 1100
+F 0 "IC10" H 16800 1425 59  0000 L BNN
+F 1 "74244N" H 16800 600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 1100 50  0001 C CNN
+F 3 "" H 17100 1100 50  0001 C CNN
+	2    17100 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC11
+U 1 1 F097018C
+P 17100 3100
+F 0 "IC11" H 16800 3425 59  0000 L BNN
+F 1 "74244N" H 16800 2600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 3100 50  0001 C CNN
+F 3 "" H 17100 3100 50  0001 C CNN
+	1    17100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC11
+U 2 1 F0970180
+P 17100 4100
+F 0 "IC11" H 16800 4425 59  0000 L BNN
+F 1 "74244N" H 16800 3600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 4100 50  0001 C CNN
+F 3 "" H 17100 4100 50  0001 C CNN
+	2    17100 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC14
+U 1 1 4D89D2D7
+P 17100 9100
+F 0 "IC14" H 16800 9425 59  0000 L BNN
+F 1 "74244N" H 16800 8600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 9100 50  0001 C CNN
+F 3 "" H 17100 9100 50  0001 C CNN
+	1    17100 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC14
+U 2 1 4D89D2DB
+P 17100 11100
+F 0 "IC14" H 16800 11425 59  0000 L BNN
+F 1 "74244N" H 16800 10600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 11100 50  0001 C CNN
+F 3 "" H 17100 11100 50  0001 C CNN
+	2    17100 11100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74182N IC8
+U 1 1 FEE713EA
+P 15600 9900
+F 0 "IC8" H 15300 10425 59  0000 L BNN
+F 1 "74182N" H 15300 9300 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 15600 9900 50  0001 C CNN
+F 3 "" H 15600 9900 50  0001 C CNN
+	1    15600 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC15
+U 1 1 95E8B355
+P 17100 12200
+F 0 "IC15" H 16800 12525 59  0000 L BNN
+F 1 "74244N" H 16800 11700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 12200 50  0001 C CNN
+F 3 "" H 17100 12200 50  0001 C CNN
+	1    17100 12200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC15
+U 2 1 95E8B359
+P 17100 13200
+F 0 "IC15" H 16800 13525 59  0000 L BNN
+F 1 "74244N" H 16800 12700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 13200 50  0001 C CNN
+F 3 "" H 17100 13200 50  0001 C CNN
+	2    17100 13200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND1
+U 1 1 DB8695AC
+P 10500 10100
+F 0 "#GND1" H 10500 10100 50  0001 C CNN
+F 1 "GND" H 10400 10000 59  0000 L BNN
+F 2 "" H 10500 10100 50  0001 C CNN
+F 3 "" H 10500 10100 50  0001 C CNN
+	1    10500 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND2
+U 1 1 13A376EC
+P 10500 12500
+F 0 "#GND2" H 10500 12500 50  0001 C CNN
+F 1 "GND" H 10400 12400 59  0000 L BNN
+F 2 "" H 10500 12500 50  0001 C CNN
+F 3 "" H 10500 12500 50  0001 C CNN
+	1    10500 12500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:VCC #P+1
+U 1 1 BCDF72C5
+P 15000 9300
+F 0 "#P+1" H 15000 9300 50  0001 C CNN
+F 1 "VCC" V 14900 9200 59  0000 L BNN
+F 2 "" H 15000 9300 50  0001 C CNN
+F 3 "" H 15000 9300 50  0001 C CNN
+	1    15000 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74574N IC7
+U 1 1 46D5F863
+P 14900 7300
+F 0 "IC7" H 14600 7925 59  0000 L BNN
+F 1 "74574N" H 14600 6600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 14900 7300 50  0001 C CNN
+F 3 "" H 14900 7300 50  0001 C CNN
+	1    14900 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC13
+U 1 1 0FD5D738
+P 17100 7000
+F 0 "IC13" H 16800 7325 59  0000 L BNN
+F 1 "74244N" H 16800 6500 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 7000 50  0001 C CNN
+F 3 "" H 17100 7000 50  0001 C CNN
+	1    17100 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC13
+U 2 1 0FD5D734
+P 17100 8000
+F 0 "IC13" H 16800 8325 59  0000 L BNN
+F 1 "74244N" H 16800 7500 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 17100 8000 50  0001 C CNN
+F 3 "" H 17100 8000 50  0001 C CNN
+	2    17100 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74251N IC12
+U 1 1 CE8554D9
+P 17100 5500
+F 0 "IC12" H 16800 6225 59  0000 L BNN
+F 1 "74251N" H 16800 4700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 17100 5500 50  0001 C CNN
+F 3 "" H 17100 5500 50  0001 C CNN
+	1    17100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND5
+U 1 1 EF27308A
+P 16500 6300
+F 0 "#GND5" H 16500 6300 50  0001 C CNN
+F 1 "GND" H 16400 6200 59  0000 L BNN
+F 2 "" H 16500 6300 50  0001 C CNN
+F 3 "" H 16500 6300 50  0001 C CNN
+	1    16500 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74257N IC4
+U 1 1 46657C43
+P 13100 7400
+F 0 "IC4" H 12800 8025 59  0000 L BNN
+F 1 "74257N" H 12800 6700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 13100 7400 50  0001 C CNN
+F 3 "" H 13100 7400 50  0001 C CNN
+	1    13100 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74257N IC3
+U 1 1 5ED25CA7
+P 13100 5900
+F 0 "IC3" H 12800 6525 59  0000 L BNN
+F 1 "74257N" H 12800 5200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 13100 5900 50  0001 C CNN
+F 3 "" H 13100 5900 50  0001 C CNN
+	1    13100 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND3
+U 1 1 7679BDCC
+P 11500 8100
+F 0 "#GND3" H 11500 8100 50  0001 C CNN
+F 1 "GND" H 11400 8000 59  0000 L BNN
+F 2 "" H 11500 8100 50  0001 C CNN
+F 3 "" H 11500 8100 50  0001 C CNN
+	1    11500 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74133N IC19
+U 1 1 2F7D964F
+P 22400 8400
+F 0 "IC19" H 22200 8625 59  0000 L BNN
+F 1 "74133N" H 22200 8100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 22400 8400 50  0001 C CNN
+F 3 "" H 22400 8400 50  0001 C CNN
+	1    22400 8400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:VCC #P+3
+U 1 1 00F05DF6
+P 21800 7600
+F 0 "#P+3" H 21800 7600 50  0001 C CNN
+F 1 "VCC" V 21700 7500 59  0000 L BNN
+F 2 "" H 21800 7600 50  0001 C CNN
+F 3 "" H 21800 7600 50  0001 C CNN
+	1    21800 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74280N IC20
+U 1 1 94B3E30F
+P 22400 9700
+F 0 "IC20" H 22100 10225 59  0000 L BNN
+F 1 "74280N" H 22100 9100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 22400 9700 50  0001 C CNN
+F 3 "" H 22400 9700 50  0001 C CNN
+	1    22400 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND4
+U 1 1 D896219B
+P 14100 8100
+F 0 "#GND4" H 14100 8100 50  0001 C CNN
+F 1 "GND" H 14000 8000 59  0000 L BNN
+F 2 "" H 14100 8100 50  0001 C CNN
+F 3 "" H 14100 8100 50  0001 C CNN
+	1    14100 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:2764 IC21
+U 1 1 6BC3689F
+P 28100 4100
+F 0 "IC21" H 27700 5025 59  0000 L BNN
+F 1 "2764" H 27700 3000 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL28" H 28100 4100 50  0001 C CNN
+F 3 "" H 28100 4100 50  0001 C CNN
+	1    28100 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74160N IC16
+U 1 1 530D17F7
+P 24700 3700
+F 0 "IC16" H 24400 4225 59  0000 L BNN
+F 1 "74AC163N" H 24400 3000 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 24700 3700 50  0001 C CNN
+F 3 "" H 24700 3700 50  0001 C CNN
+	1    24700 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND6
+U 1 1 A07C0193
+P 27400 5200
+F 0 "#GND6" H 27400 5200 50  0001 C CNN
+F 1 "GND" H 27300 5100 59  0000 L BNN
+F 2 "" H 27400 5200 50  0001 C CNN
+F 3 "" H 27400 5200 50  0001 C CNN
+	1    27400 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:2764 IC22
+U 1 1 7CDE7183
+P 28100 6300
+F 0 "IC22" H 27700 7225 59  0000 L BNN
+F 1 "2764" H 27700 5200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL28" H 28100 6300 50  0001 C CNN
+F 3 "" H 28100 6300 50  0001 C CNN
+	1    28100 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND7
+U 1 1 9CDE76EF
+P 27400 7400
+F 0 "#GND7" H 27400 7400 50  0001 C CNN
+F 1 "GND" H 27300 7300 59  0000 L BNN
+F 2 "" H 27400 7400 50  0001 C CNN
+F 3 "" H 27400 7400 50  0001 C CNN
+	1    27400 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:2764 IC23
+U 1 1 8B49CCC6
+P 28100 8500
+F 0 "IC23" H 27700 9425 59  0000 L BNN
+F 1 "2764" H 27700 7400 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL28" H 28100 8500 50  0001 C CNN
+F 3 "" H 28100 8500 50  0001 C CNN
+	1    28100 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND8
+U 1 1 DF24F9E8
+P 27400 9600
+F 0 "#GND8" H 27400 9600 50  0001 C CNN
+F 1 "GND" H 27300 9500 59  0000 L BNN
+F 2 "" H 27400 9600 50  0001 C CNN
+F 3 "" H 27400 9600 50  0001 C CNN
+	1    27400 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:VCC #P+2
+U 1 1 339DE9D3
+P 23900 3600
+F 0 "#P+2" H 23900 3600 50  0001 C CNN
+F 1 "VCC" V 23800 3500 59  0000 L BNN
+F 2 "" H 23900 3600 50  0001 C CNN
+F 3 "" H 23900 3600 50  0001 C CNN
+	1    23900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74160N IC33
+U 1 1 3DB78B27
+P 4400 3000
+F 0 "IC33" H 4100 3525 59  0000 L BNN
+F 1 "74AC161N" H 4100 2300 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 4400 3000 50  0001 C CNN
+F 3 "" H 4400 3000 50  0001 C CNN
+	1    4400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74160N IC34
+U 1 1 F8C87EBE
+P 4400 4500
+F 0 "IC34" H 4100 5025 59  0000 L BNN
+F 1 "74AC161N" H 4100 3800 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 4400 4500 50  0001 C CNN
+F 3 "" H 4400 4500 50  0001 C CNN
+	1    4400 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74160N IC35
+U 1 1 027ED5FF
+P 4400 6000
+F 0 "IC35" H 4100 6525 59  0000 L BNN
+F 1 "74AC161N" H 4100 5300 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 4400 6000 50  0001 C CNN
+F 3 "" H 4400 6000 50  0001 C CNN
+	1    4400 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74160N IC36
+U 1 1 F10DD24B
+P 4400 7500
+F 0 "IC36" H 4100 8025 59  0000 L BNN
+F 1 "74AC161N" H 4100 6800 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL16" H 4400 7500 50  0001 C CNN
+F 3 "" H 4400 7500 50  0001 C CNN
+	1    4400 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC37
+U 1 1 922416E0
+P 5700 2800
+F 0 "IC37" H 5400 3125 59  0000 L BNN
+F 1 "74244N" H 5400 2300 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 2800 50  0001 C CNN
+F 3 "" H 5700 2800 50  0001 C CNN
+	1    5700 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC37
+U 2 1 922416EC
+P 5700 4300
+F 0 "IC37" H 5400 4625 59  0000 L BNN
+F 1 "74244N" H 5400 3800 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 4300 50  0001 C CNN
+F 3 "" H 5700 4300 50  0001 C CNN
+	2    5700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC38
+U 1 1 A356BD6B
+P 5700 5800
+F 0 "IC38" H 5400 6125 59  0000 L BNN
+F 1 "74244N" H 5400 5300 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 5800 50  0001 C CNN
+F 3 "" H 5700 5800 50  0001 C CNN
+	1    5700 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC38
+U 2 1 A356BD67
+P 5700 7300
+F 0 "IC38" H 5400 7625 59  0000 L BNN
+F 1 "74244N" H 5400 6800 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 7300 50  0001 C CNN
+F 3 "" H 5700 7300 50  0001 C CNN
+	2    5700 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC39
+U 1 1 A63FD20F
+P 5700 8600
+F 0 "IC39" H 5400 8925 59  0000 L BNN
+F 1 "74244N" H 5400 8100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 8600 50  0001 C CNN
+F 3 "" H 5700 8600 50  0001 C CNN
+	1    5700 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC39
+U 2 1 A63FD203
+P 5700 9600
+F 0 "IC39" H 5400 9925 59  0000 L BNN
+F 1 "74244N" H 5400 9100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 9600 50  0001 C CNN
+F 3 "" H 5700 9600 50  0001 C CNN
+	2    5700 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC40
+U 1 1 017DE1A3
+P 5700 10600
+F 0 "IC40" H 5400 10925 59  0000 L BNN
+F 1 "74244N" H 5400 10100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 10600 50  0001 C CNN
+F 3 "" H 5700 10600 50  0001 C CNN
+	1    5700 10600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC40
+U 2 1 017DE1AF
+P 5700 11600
+F 0 "IC40" H 5400 11925 59  0000 L BNN
+F 1 "74244N" H 5400 11100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 5700 11600 50  0001 C CNN
+F 3 "" H 5700 11600 50  0001 C CNN
+	2    5700 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74574N IC41
+U 1 1 20489C1D
+P 1900 11100
+F 0 "IC41" H 1600 11725 59  0000 L BNN
+F 1 "74574N" H 1600 10400 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 1900 11100 50  0001 C CNN
+F 3 "" H 1900 11100 50  0001 C CNN
+	1    1900 11100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND10
+U 1 1 845C69E3
+P 1300 11800
+F 0 "#GND10" H 1300 11800 50  0001 C CNN
+F 1 "GND" H 1200 11700 59  0000 L BNN
+F 2 "" H 1300 11800 50  0001 C CNN
+F 3 "" H 1300 11800 50  0001 C CNN
+	1    1300 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74245N IC32
+U 1 1 DC37AE57
+P 19800 2900
+F 0 "IC32" H 19500 3525 59  0000 L BNN
+F 1 "74245N" H 19500 2200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 19800 2900 50  0001 C CNN
+F 3 "" H 19800 2900 50  0001 C CNN
+	1    19800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74373N IC43
+U 1 1 7CD8932D
+P 24700 5300
+F 0 "IC43" H 24400 5925 59  0000 L BNN
+F 1 "74373N" H 24400 4600 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 24700 5300 50  0001 C CNN
+F 3 "" H 24700 5300 50  0001 C CNN
+	1    24700 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND12
+U 1 1 A5F18D96
+P 24100 6000
+F 0 "#GND12" H 24100 6000 50  0001 C CNN
+F 1 "GND" H 24000 5900 59  0000 L BNN
+F 2 "" H 24100 6000 50  0001 C CNN
+F 3 "" H 24100 6000 50  0001 C CNN
+	1    24100 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74260N IC17
+U 1 1 7722E7CC
+P 23400 5800
+F 0 "IC17" H 23100 6025 59  0000 L BNN
+F 1 "74260N" H 23100 5500 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 23400 5800 50  0001 C CNN
+F 3 "" H 23400 5800 50  0001 C CNN
+	1    23400 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND13
+U 1 1 9E3D6951
+P 22800 6200
+F 0 "#GND13" H 22800 6200 50  0001 C CNN
+F 1 "GND" H 22700 6100 59  0000 L BNN
+F 2 "" H 22800 6200 50  0001 C CNN
+F 3 "" H 22800 6200 50  0001 C CNN
+	1    22800 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:GND #GND14
+U 1 1 109F320A
+P 24100 4400
+F 0 "#GND14" H 24100 4400 50  0001 C CNN
+F 1 "GND" H 24000 4300 59  0000 L BNN
+F 2 "" H 24100 4400 50  0001 C CNN
+F 3 "" H 24100 4400 50  0001 C CNN
+	1    24100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC9
+U 1 1 C89599F4
+P 19200 6400
+F 0 "IC9" H 18900 6625 59  0000 L BNN
+F 1 "7486N" H 18900 6100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 19200 6400 50  0001 C CNN
+F 3 "" H 19200 6400 50  0001 C CNN
+	1    19200 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC9
+U 2 1 C89599F8
+P 27800 12000
+F 0 "IC9" H 27500 12225 59  0000 L BNN
+F 1 "7486N" H 27500 11700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 27800 12000 50  0001 C CNN
+F 3 "" H 27800 12000 50  0001 C CNN
+	2    27800 12000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC9
+U 3 1 C89599FC
+P 22000 12500
+F 0 "IC9" H 21700 12725 59  0000 L BNN
+F 1 "7486N" H 21700 12200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 22000 12500 50  0001 C CNN
+F 3 "" H 22000 12500 50  0001 C CNN
+	3    22000 12500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC9
+U 4 1 C89599E0
+P 26600 11600
+F 0 "IC9" H 26300 11825 59  0000 L BNN
+F 1 "7486N" H 26300 11300 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 26600 11600 50  0001 C CNN
+F 3 "" H 26600 11600 50  0001 C CNN
+	4    26600 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC18
+U 1 1 93817A02
+P 23200 11400
+F 0 "IC18" H 22900 11625 59  0000 L BNN
+F 1 "7486N" H 22900 11100 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 23200 11400 50  0001 C CNN
+F 3 "" H 23200 11400 50  0001 C CNN
+	1    23200 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC18
+U 2 1 93817A0E
+P 24300 11300
+F 0 "IC18" H 24000 11525 59  0000 L BNN
+F 1 "7486N" H 24000 11000 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 24300 11300 50  0001 C CNN
+F 3 "" H 24300 11300 50  0001 C CNN
+	2    24300 11300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC18
+U 3 1 93817A0A
+P 23200 12100
+F 0 "IC18" H 22900 12325 59  0000 L BNN
+F 1 "7486N" H 22900 11800 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 23200 12100 50  0001 C CNN
+F 3 "" H 23200 12100 50  0001 C CNN
+	3    23200 12100
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7486N IC18
+U 4 1 93817A16
+P 24300 12200
+F 0 "IC18" H 24000 12425 59  0000 L BNN
+F 1 "7486N" H 24000 11900 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 24300 12200 50  0001 C CNN
+F 3 "" H 24300 12200 50  0001 C CNN
+	4    24300 12200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7432N IC30
+U 1 1 CAF5149D
+P 20300 6500
+F 0 "IC30" H 20000 6725 59  0000 L BNN
+F 1 "7432N" H 20000 6200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 20300 6500 50  0001 C CNN
+F 3 "" H 20300 6500 50  0001 C CNN
+	1    20300 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7432N IC30
+U 2 1 CAF51491
+P 19900 13000
+F 0 "IC30" H 19600 13225 59  0000 L BNN
+F 1 "7432N" H 19600 12700 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 19900 13000 50  0001 C CNN
+F 3 "" H 19900 13000 50  0001 C CNN
+	2    19900 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7432N IC30
+U 3 1 CAF51495
+P 19900 13700
+F 0 "IC30" H 19600 13925 59  0000 L BNN
+F 1 "7432N" H 19600 13400 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 19900 13700 50  0001 C CNN
+F 3 "" H 19900 13700 50  0001 C CNN
+	3    19900 13700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:7432N IC30
+U 4 1 CAF51489
+P 25500 11700
+F 0 "IC30" H 25200 11925 59  0000 L BNN
+F 1 "7432N" H 25200 11400 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL14" H 25500 11700 50  0001 C CNN
+F 3 "" H 25500 11700 50  0001 C CNN
+	4    25500 11700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:VCC #P+5
+U 1 1 33ACA7EC
+P 19300 12700
+F 0 "#P+5" H 19300 12700 50  0001 C CNN
+F 1 "VCC" V 19200 12600 59  0000 L BNN
+F 2 "" H 19300 12700 50  0001 C CNN
+F 3 "" H 19300 12700 50  0001 C CNN
+	1    19300 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:VCC #P+6
+U 1 1 B0F39303
+P 26000 11300
+F 0 "#P+6" H 26000 11300 50  0001 C CNN
+F 1 "VCC" V 25900 11200 59  0000 L BNN
+F 2 "" H 26000 11300 50  0001 C CNN
+F 3 "" H 26000 11300 50  0001 C CNN
+	1    26000 11300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:VCC #P+4
+U 1 1 A7FDB2D8
+P 16500 4700
+F 0 "#P+4" H 16500 4700 50  0001 C CNN
+F 1 "VCC" V 16400 4600 59  0000 L BNN
+F 2 "" H 16500 4700 50  0001 C CNN
+F 3 "" H 16500 4700 50  0001 C CNN
+	1    16500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC42
+U 1 1 B20E766F
+P 4100 12700
+F 0 "IC42" H 3800 13025 59  0000 L BNN
+F 1 "74244N" H 3800 12200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 4100 12700 50  0001 C CNN
+F 3 "" H 4100 12700 50  0001 C CNN
+	1    4100 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L MicroComp_v1.1-eagle-import:74244N IC42
+U 2 1 B20E7663
+P 4100 13700
+F 0 "IC42" H 3800 14025 59  0000 L BNN
+F 1 "74244N" H 3800 13200 59  0001 L BNN
+F 2 "MicroComp v1.1:DIL20" H 4100 13700 50  0001 C CNN
+F 3 "" H 4100 13700 50  0001 C CNN
+	2    4100 13700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

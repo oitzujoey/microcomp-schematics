@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MicroComp_v1.1-eagle-import)(type Legacy)(uri ${KIPRJMOD}/MicroComp_v1.1-eagle-import.lib)(options "")(descr ""))
+)
